@@ -1,0 +1,2 @@
+# Politricks
+GitHub Pages
