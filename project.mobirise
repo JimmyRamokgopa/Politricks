@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -230,7 +230,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "We are the generation whom a lot has been promised to. We are that generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing in street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.\n",
+        "meta_descr": "We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.",
         "title": "Dreams for Sale - Politricks SA",
         "order": 2
       },
