@@ -62,6 +62,15 @@
 #content1-8 DIV {
   color: #162d47;
 }
+#msg-box4-f .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-f .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-f .mbr-article {
+  color: #ffffff;
+}
 #dropdown-menu-c .hide-buttons [data-button] {
   display: none !important;
 }
