@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 16,
+    "uniqCompNum": 22,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -127,7 +127,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Is the DA Racist?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -171,8 +171,21 @@
                 "overlayOpacity": "0.7"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1552x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/da-logo2-960x540.jpg",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "IS THE DA RACIST?<div></div>",
+                "contentAlign": "right",
+                "text": "An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1552x1080.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -266,7 +279,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Is the DA Racist?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -514,7 +527,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Is the DA Racist?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -616,6 +629,254 @@
           ],
           "_name": "form2",
           "_anchor": "form2-e"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.",
+        "title": "Is the DA Racist? - Politricks SA",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Is the DA Racist?</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://politricks.co.za",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-g"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "60px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/da-logo2-960x540.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#162d47",
+            "overlayOpacity": "0.7"
+          },
+          "title": "IS THE DA RACIST?",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-h"
+        },
+        {
+          "text": "<p>6 November 2018</p><p><br></p><p>The Democratic Alliance [DA] is the official opposition party of South Africa and has been showing signs of growth since 1994. The DA received 22.2% of the votes in the National Assembly elections in 2014, and 26.9% in the 2016 local government elections (Democratic Alliance, 2018, 03 November 2018, https://www.da.org.za/why-the-da) and the assumption is that it is now becoming more attractive to metropolitan black people.  Despite the growing popularity amongst black people, the DA is often labelled a “white party.” Furthermore, despite their efforts to recruit and place “people of colour” in leadership positions, the general South African population remains unconvinced, especially after numerous racial issues within the party. \r</p><p>\r</p><p>The DA’s racial woes were recently reignited by mme Helen Zille’s controversial tweets about “the legacy of colonialism.” In her argument, the legacy of colonialism, not colonialism, the legacy thereof, is commendable, considering the scale of infrastructural development that has taken place in South Africa. She defiantly argued her point in this regard, despite the DA leader abuti Mmusi Maimane showing disapproval and disagreement. The South African black community observed how abuti Mmusi Maimane attempted to exercise his “power” as the leader, which seemed to lack potency against mme Helen Zille; and, it was at that point where many South Africans came to the conclusion that, even though there are black “leaders” in the DA, the party remains “white” and “white-controlled”, based on the effectiveness (or lack thereof) of black people to exercise their so-called “power” within the organisation.\r</p><p>\r</p><p>Perhaps, in another article, we shall discuss the problematic nature of mme Helen Zille’s tweets; but, for now, allow me to present the following analogy: if, for instance, I were to intentionally infect you with a certain virus, and after some time of being subjected to pain and suffering due to that virus, I develop an antidote that would cure or make you feel better, it would be rather “sociopath-ish” of me to praise myself for developing the antidote, when it was I who caused the pain and suffering in the first place. Similarly, colonialism caused poverty in Africa. How? Well, the introduction of restrictive borders, pollution and the looting of African resources disrupted Africa’s “natural economy” and the African ways of survival. Because of this, it is disingenuous to praise anything that has to do with colonialism or its legacy, especially as a white South African. To boast about the infrastructure (the “antidote”) that was built on the backs of the colonised is actually quite ridiculously arrogant and shows how “out of touch” some DA leaders are with the realities of the ordinary South African. \r</p><p>\r</p><p>The woes of the DA, in relation to race, did not end there. In April of 2018, there were discussions about how the DA would address issues of transformation within the party, and ultimately, in the spaces where they govern. The real question was whether they were willing to set demographically-based targets in order to have a more equitably diverse setting within the spectrum of the party or not. During their gathering, the use of the country’s demographics as a “guide” was simply rejected. “Diversity” was merely generalised, with no clear targets whatsoever. As per the Democratic Alliances’ Federal Constitution (as amended in April 2018), “The Party solemnly subscribes to the preamble to the Constitution of South Africa which recognizes the injustices of our past, and affirms that South Africa belongs to all who live in it, united in diversity.  The Party will continue to take active steps to promote and advance diversity in its own ranks”. You’d find it interesting to note that the word “transformation” is nowhere to be found in the DA’s constitution, with no clear indication of how the party plans on distributing access to opportunities and wealth equitably. One of the DA’s core policies, which relates to “fair access to jobs,” is nothing but direct criticism of the ANC government and a promise to do things “better”.There is no mention of equity in relation to the demographics of the country. Perhaps this is the DA’s “liberal” stance, I am not quite sure.\r</p><p>\r</p><p>In Europe, perhaps such a “liberal” stance would work; but, in South Africa, where levels of inequality are amongst the highest in the world (with a Gini Index of about 0.7 in 2015), a “liberal” position of this type makes no sense to South Africans. Liberalism, in its basic form and definition, isn’t a bad idea (on paper). It can, however, be used as an instrument of perpetuating the socio-economic status-quo. To ignore the fact that others benefitted unduly and to not do anything to redress the economic injustices is telling of a party’s priorities. \r</p><p>\r</p><p>Apartheid might have ended over 20 years ago; however, the systems of apartheid persist still. There might be no visible nor tangible boards or signs with the words “whites only” printed on them, as things were during apartheid, however, certain barriers of entry to certain spaces have demonstrated the ability to be as effective as the actual apartheid “whites only” boards and signs. It seems as though the DA does not understand that <i><b>“equal opportunity” does not necessarily mean “equal access to opportunity.”</b></i> For example, “mobile data” is available to all. Any person, black or white, can have data on their phones, which would allow them to access the internet and to read this article; however, not everyone has access to data. Not everyone can afford it. In this case, “money” or “proximity” is the barrier. So, you see, even though we have equal “opportunity”, we do not have “equal access”. \r</p><p>\r</p><p>In South Africa, fact is, the inequality correlates with race. And so, how can the Democratic Alliance presume that it can address inequality without considering “race”? It makes no sense at all. According to Stats SA’s “Living Conditions of Households in South Africa Report” of 2015, nearly one in every ten (12.39%) of black African-headed households in South Africa earn over R71 478.00 per annum. This means that over 87.61% of black African-headed households earn less than roughly R5 957.00 per month. When looking at the white community, 74.87% of white-headed households earned more than R71 478.00 per annum; and so, of course, the inequality corresponds to race, in South Africa!\r</p><p>\r</p><p>Considering all that is mentioned above, if the Democratic Alliance actively chooses to negate or ignore “race” in their policies, they would actually be acting in a manner that protects the exclusive advantages and interests of white people in South Africa. They would be contributing to the economic underdevelopment of black South Africans. They would be active participants in the intangible systems of apartheid that persist, and by virtue of that, present themselves as agents of a racist political party, or at least, an institutionally racist political party. And if all of the above mentioned in this final paragraph is true, the answer to the above question is: the Democratic Alliance [the DA] <i>is</i> racist. \r</p><p><br></p><div>\n</div><div>\n</div><div>\n</div><div>- Jimmy Ramokgopa (<a href=\"https://twitter.com/JimmyRamokgopa\" target=\"_blank\">@JimmyRamokgopa</a>)</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#162d47"
+            }
+          },
+          "_anchor": "content1-i"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20181027-wa0008-1280x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AUTHOR",
+          "text": "<p>Jimmy Ramokgopa\r</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\r</p><p>Businessman - socio-economic and political commentator \r</p><p>Activist \r</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://twitter.com/JimmyRamokgopa\" data-toolbar=\"-mbrBtnMove\">TWITTER</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "blakseedent@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-l"
         }
       ]
     }
