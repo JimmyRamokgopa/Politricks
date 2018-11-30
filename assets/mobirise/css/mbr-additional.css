@@ -136,3 +136,37 @@
 #msg-box4-k .mbr-article {
   color: #ffffff;
 }
+#dropdown-menu-s .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-s .nav .link,
+#dropdown-menu-s .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-s .navbar,
+#dropdown-menu-s .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-s .dropdown-menu a:hover,
+#dropdown-menu-s .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-s .navbar-toggler {
+  color: #ffffff;
+}
+#content5-t .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-t .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-t .mbr-article {
+  color: #fff;
+}
+#content5-t .mbr-article P {
+  text-align: center;
+}
