@@ -170,3 +170,37 @@
 #content5-t .mbr-article P {
   text-align: center;
 }
+#dropdown-menu-y .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-y .nav .link,
+#dropdown-menu-y .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-y .navbar,
+#dropdown-menu-y .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-y .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-y .dropdown-menu a:hover,
+#dropdown-menu-y .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-y .navbar-toggler {
+  color: #ffffff;
+}
+#content5-z .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-z .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-z .mbr-article {
+  color: #fff;
+}
+#content5-z .mbr-article P {
+  text-align: center;
+}
