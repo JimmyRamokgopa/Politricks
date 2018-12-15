@@ -202,9 +202,9 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "CONTRIBUTE TO THIS PLATFORM",
+                "title": "PUBLISH ON THIS PLATFORM",
                 "contentAlign": "left",
-                "text": "We are open to receiving your contribution. If you would like to contribute, email your articles to news@politricks.co.za&nbsp;<br>",
+                "text": "We are open to receiving your articles for review and publication. If you would like to publish with us, email your articles to news@politricks.co.za&nbsp;<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://twitter.com/PolitricksSA\" data-toolbar=\"-mbrBtnMove\">FOLLOW US ON TWITTER</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.8"
