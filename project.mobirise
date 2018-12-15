@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -232,7 +232,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "SUBSCRIBE TO JOIN THE TEAM",
+          "title": "SUBSCRIBE TO JOIN THE MOVEMENT",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>",
           "form": {
             "action": "NEWS@POLITRICKS.CO.ZA",
