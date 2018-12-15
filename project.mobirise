@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 39,
+    "uniqCompNum": 45,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -127,7 +127,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -172,7 +172,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/da-logo2-960x540.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -180,6 +180,19 @@
                 "contentAlign": "right",
                 "text": "An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/620x349-620x348.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "IS GOOD GOOD ENOUGH?<div></div>",
+                "contentAlign": "right",
+                "text": "An analysis of the new political party established by Patricia de Lille and how others that came before it are seen in the political landscape.<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
                 "overlay": true,
                 "overlayOpacity": "0.7"
               },
@@ -219,7 +232,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "title": "SUBSCRIBE TO JOIN THE TEAM",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>",
           "form": {
             "action": "NEWS@POLITRICKS.CO.ZA",
@@ -279,7 +292,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -348,7 +361,7 @@
           "_anchor": "content5-6"
         },
         {
-          "text": "<p>1 November 2018</p><p><br></p><p>We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.</p><p><br></p><p>\n</p><div>\n</div><div>Born in the 90’s, at the brink of independence, with seemingly infinite possibilities in sight, the future had never looked any brighter for black South Africans. In comparison to the generation that came before us, we had, and still have, access to more opportunities and better education than what our predecessors could have ever imagined. With all of this access, opportunity and education, we find ourselves looking back and questioning the effectiveness thereof.</div><div><br></div><div> \n</div><div>\n</div><div>How is it that life in the promised land feels so unbearable and worse? Surely, this is surprising, even to our parents and grandparents.</div><div><br></div><div> \n</div><div>\n</div><div>For example, my mother, at my age, had already had several years of “work-experience” and was pretty chuffed with her ability to earn a bit of money, especially as an independent woman of her time. In comparison to today's generation, she earned much less and could only afford basic things; nonetheless, she and many others like her were not as depressed and sunless as the 20-something year-old living in our time with an equivalent income. For the 20-something year-old of today, that type of work would be the prime example of \"the failure of the youth to progress and to be emancipated from the shackles of this unjust economy.\" It would be the prime feature of worker-exploitation and the classic scene of the economic inequality of South Africa.</div><div><br></div><div>   \n</div><div>\n</div><div>But how are we this depressed, when our predecessors have gone through “the most”?\n</div><div>\n</div><div><br></div><div>Expectation, that’s what it is.</div><div><br></div><div>\n</div><div>\n</div><div>The previous generations expected less from life, especially amongst those who were classified as natives. And so, my mother’s low-income job in retail  was actually <b><i>not that bad</i></b>. The fact that our fathers and uncles did not own any cars or properties in their 20’s did not matter at all! \n</div><div>Today, the expectations are high. Your inability to afford a car, for example, in your 20’s is seen as your failure and causes feelings of depression and non-achievement. This is despite the unemployment rate in South Africa sitting at over 27% and over 38% amongst the youth in the third quarter of 2018. Well, according to Stats SA, the “youth” is classified as people between the ages 15 to 34. I don’t recall my 15-year-old-self languishing in unemployment. I didn’t have a job, of course, I was in school! But; anyway, this is how the statistics experts have chosen to present the information regarding unemployment and perhaps begs for a different discussion in a different article.</div><div><br></div><div>\n</div><div>\n</div><div>Living in a country that has the youth in its majority, we are the “target market” of election campaigns. Ask the EFF. It is relatively easy for politicians to preach a rhetoric that would sound more attractive to desperate young people. We are desperate and tired - we are thus likely to go for whoever can offer more immediate “solutions.” We have grown impatient - not angry - impatient. As superficial as it may sound, time is running out for us - we just want to have those jobs, own those cars, and live in those properties. It is a blatantly generalised statement, I know, but that’s how it is. The sluggish progress of our lives is what’s keeping us depressed. Sort that out and we will give you our votes. \n</div><div>\n</div><div><br></div><div>With that said, this platform will be the portal for young voices of this country. We will say what we think - we will own the conversation - from the youth, by the youth. Because, well, this is what we think. </div><div><br></div><div>We are open to receiving your contribution. If you would like to contribute, email your articles to news@politricks.co.za</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>- Jimmy Ramokgopa (<a href=\"https://twitter.com/JimmyRamokgopa\" target=\"_blank\">@JimmyRamokgopa</a>)</div><p></p>",
+          "text": "<p>1 November 2018 - Jimmy Ramokgopa</p><p><br></p><p>We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.</p><p><br></p><p>\n</p><div>\n</div><div>Born in the 90’s, at the brink of independence, with seemingly infinite possibilities in sight, the future had never looked any brighter for black South Africans. In comparison to the generation that came before us, we had, and still have, access to more opportunities and better education than what our predecessors could have ever imagined. With all of this access, opportunity and education, we find ourselves looking back and questioning the effectiveness thereof.</div><div><br></div><div> \n</div><div>\n</div><div>How is it that life in the promised land feels so unbearable and worse? Surely, this is surprising, even to our parents and grandparents.</div><div><br></div><div> \n</div><div>\n</div><div>For example, my mother, at my age, had already had several years of “work-experience” and was pretty chuffed with her ability to earn a bit of money, especially as an independent woman of her time. In comparison to today's generation, she earned much less and could only afford basic things; nonetheless, she and many others like her were not as depressed and sunless as the 20-something year-old living in our time with an equivalent income. For the 20-something year-old of today, that type of work would be the prime example of \"the failure of the youth to progress and to be emancipated from the shackles of this unjust economy.\" It would be the prime feature of worker-exploitation and the classic scene of the economic inequality of South Africa.</div><div><br></div><div>   \n</div><div>\n</div><div>But how are we this depressed, when our predecessors have gone through “the most”?\n</div><div>\n</div><div><br></div><div>Expectation, that’s what it is.</div><div><br></div><div>\n</div><div>\n</div><div>The previous generations expected less from life, especially amongst those who were classified as natives. And so, my mother’s low-income job in retail  was actually <b><i>not that bad</i></b>. The fact that our fathers and uncles did not own any cars or properties in their 20’s did not matter at all! \n</div><div>Today, the expectations are high. Your inability to afford a car, for example, in your 20’s is seen as your failure and causes feelings of depression and non-achievement. This is despite the unemployment rate in South Africa sitting at over 27% and over 38% amongst the youth in the third quarter of 2018. Well, according to Stats SA, the “youth” is classified as people between the ages 15 to 34. I don’t recall my 15-year-old-self languishing in unemployment. I didn’t have a job, of course, I was in school! But; anyway, this is how the statistics experts have chosen to present the information regarding unemployment and perhaps begs for a different discussion in a different article.</div><div><br></div><div>\n</div><div>\n</div><div>Living in a country that has the youth in its majority, we are the “target market” of election campaigns. Ask the EFF. It is relatively easy for politicians to preach a rhetoric that would sound more attractive to desperate young people. We are desperate and tired - we are thus likely to go for whoever can offer more immediate “solutions.” We have grown impatient - not angry - impatient. As superficial as it may sound, time is running out for us - we just want to have those jobs, own those cars, and live in those properties. It is a blatantly generalised statement, I know, but that’s how it is. The sluggish progress of our lives is what’s keeping us depressed. Sort that out and we will give you our votes. \n</div><div>\n</div><div><br></div><div>With that said, this platform will be the portal for young voices of this country. We will say what we think - we will own the conversation - from the youth, by the youth. Because, well, this is what we think. </div><div><br></div><div>We are open to receiving your contribution. If you would like to contribute, email your articles to news@politricks.co.za</div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>- Jimmy Ramokgopa (<a href=\"https://twitter.com/JimmyRamokgopa\" target=\"_blank\">@JimmyRamokgopa</a>)</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -527,7 +540,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -670,7 +683,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -739,7 +752,7 @@
           "_anchor": "content5-h"
         },
         {
-          "text": "<p>6 November 2018</p><p><br></p><p>The Democratic Alliance [DA] is the official opposition party of South Africa and has been showing signs of growth since 1994. The DA received 22.2% of the votes in the National Assembly elections in 2014, and 26.9% in the 2016 local government elections (Democratic Alliance, 2018, 03 November 2018, https://www.da.org.za/why-the-da) and the assumption is that it is now becoming more attractive to metropolitan black people.  Despite the growing popularity amongst black people, the DA is often labelled a “white party.” Furthermore, despite their efforts to recruit and place “people of colour” in leadership positions, the general South African population remains unconvinced, especially after numerous racial issues within the party. \n</p><p>\n</p><p>The DA’s racial woes were recently reignited by mme Helen Zille’s controversial tweets about “the legacy of colonialism.” In her argument, the legacy of colonialism, not colonialism, the legacy thereof, is commendable, considering the scale of infrastructural development that has taken place in South Africa. She defiantly argued her point in this regard, despite the DA leader abuti Mmusi Maimane showing disapproval and disagreement. The South African black community observed how abuti Mmusi Maimane attempted to exercise his “power” as the leader, which seemed to lack potency against mme Helen Zille; and, it was at that point where many South Africans came to the conclusion that, even though there are black “leaders” in the DA, the party remains “white” and “white-controlled”, based on the effectiveness (or lack thereof) of black people to exercise their so-called “power” within the organisation.\n</p><p>\n</p><p>Perhaps, in another article, we shall discuss the problematic nature of mme Helen Zille’s tweets; but, for now, allow me to present the following analogy: if, for instance, I were to intentionally infect you with a certain virus, and after some time of being subjected to pain and suffering due to that virus, I develop an antidote that would cure or make you feel better, it would be rather “sociopath-ish” of me to praise myself for developing the antidote, when it was I who caused the pain and suffering in the first place. Similarly, colonialism caused poverty in Africa. How? Well, the introduction of restrictive borders, pollution and the looting of African resources disrupted Africa’s “natural economy” and the African ways of survival. Because of this, it is disingenuous to praise anything that has to do with colonialism or its legacy, especially as a white South African. To boast about the infrastructure (the “antidote”) that was built on the backs of the colonised is actually quite ridiculously arrogant and shows how “out of touch” some DA leaders are with the realities of the ordinary South African. \n</p><p>\n</p><p>The woes of the DA, in relation to race, did not end there. In April of 2018, there were discussions about how the DA would address issues of transformation within the party, and ultimately, in the spaces where they govern. The real question was whether they were willing to set demographically-based targets in order to have a more equitably diverse setting within the spectrum of the party or not. During their gathering, the use of the country’s demographics as a “guide” was simply rejected. “Diversity” was merely generalised, with no clear targets whatsoever. As per the Democratic Alliances’ Federal Constitution (as amended in April 2018), “The Party solemnly subscribes to the preamble to the Constitution of South Africa which recognizes the injustices of our past, and affirms that South Africa belongs to all who live in it, united in diversity.  The Party will continue to take active steps to promote and advance diversity in its own ranks”. You’d find it interesting to note that the word “transformation” is nowhere to be found in the DA’s constitution, with no clear indication of how the party plans on distributing access to opportunities and wealth equitably. One of the DA’s core policies, which relates to “fair access to jobs,” is nothing but direct criticism of the ANC government and a promise to do things “better”.There is no mention of equity in relation to the demographics of the country. Perhaps this is the DA’s “liberal” stance, I am not quite sure.\n</p><p>\n</p><p>In Europe, perhaps such a “liberal” stance would work; but, in South Africa, where levels of inequality are amongst the highest in the world (with a Gini Index of about 0.7 in 2015), a “liberal” position of this type makes no sense to South Africans. Liberalism, in its basic form and definition, isn’t a bad idea (on paper). It can, however, be used as an instrument of perpetuating the socio-economic status-quo. To ignore the fact that others benefitted unduly and to not do anything to redress the economic injustices is telling of a party’s priorities. \n</p><p>\n</p><p>Apartheid might have ended over 20 years ago; however, the systems of apartheid persist still. There might be no visible nor tangible boards or signs with the words “whites only” printed on them, as things were during apartheid, however, certain barriers of entry to certain spaces have demonstrated the ability to be as effective as the actual apartheid “whites only” boards and signs. It seems as though the DA does not understand that <i><b>“equal opportunity” does not necessarily mean “equal access to opportunity.”</b></i> For example, “mobile data” is available to all. Any person, black or white, can have data on their phones, which would allow them to access the internet and to read this article; however, not everyone has access to data. Not everyone can afford it. In this case, “money” or “proximity” is the barrier. So, you see, even though we have equal “opportunity”, we do not have “equal access”. \n</p><p>\n</p><p>In South Africa, fact is, the inequality correlates with race. And so, how can the Democratic Alliance presume that it can address inequality without considering “race”? It makes no sense at all. According to Stats SA’s “Living Conditions of Households in South Africa Report” of 2015, nearly one in every ten (12.39%) of black African-headed households in South Africa earn over R71 478.00 per annum. This means that over 87.61% of black African-headed households earn less than roughly R5 957.00 per month. When looking at the white community, 74.87% of white-headed households earned more than R71 478.00 per annum; and so, of course, the inequality corresponds to race, in South Africa!\n</p><p>\n</p><p>Considering all that is mentioned above, if the Democratic Alliance actively chooses to negate or ignore “race” in their policies, they would actually be acting in a manner that protects the exclusive advantages and interests of white people in South Africa. They would be contributing to the economic underdevelopment of black South Africans. They would be active participants in the intangible systems of apartheid that persist, and by virtue of that, present themselves as agents of a racist political party, or at least, an institutionally racist political party. And if all of the above mentioned in this final paragraph is true, the answer to the above question is: the Democratic Alliance [the DA] <i>is</i> racist. \n</p><p><br></p><div>\n</div><div>\n</div><div>\n</div><div>- Jimmy Ramokgopa (<a href=\"https://twitter.com/JimmyRamokgopa\" target=\"_blank\">@JimmyRamokgopa</a>)</div><p></p>",
+          "text": "<p>6 November 2018 - Jimmy Ramokgopa</p><p><br></p><p>The Democratic Alliance [DA] is the official opposition party of South Africa and has been showing signs of growth since 1994. The DA received 22.2% of the votes in the National Assembly elections in 2014, and 26.9% in the 2016 local government elections (Democratic Alliance, 2018, 03 November 2018, https://www.da.org.za/why-the-da) and the assumption is that it is now becoming more attractive to metropolitan black people.  Despite the growing popularity amongst black people, the DA is often labelled a “white party.” Furthermore, despite their efforts to recruit and place “people of colour” in leadership positions, the general South African population remains unconvinced, especially after numerous racial issues within the party. \n</p><p>\n</p><p>The DA’s racial woes were recently reignited by mme Helen Zille’s controversial tweets about “the legacy of colonialism.” In her argument, the legacy of colonialism, not colonialism, the legacy thereof, is commendable, considering the scale of infrastructural development that has taken place in South Africa. She defiantly argued her point in this regard, despite the DA leader abuti Mmusi Maimane showing disapproval and disagreement. The South African black community observed how abuti Mmusi Maimane attempted to exercise his “power” as the leader, which seemed to lack potency against mme Helen Zille; and, it was at that point where many South Africans came to the conclusion that, even though there are black “leaders” in the DA, the party remains “white” and “white-controlled”, based on the effectiveness (or lack thereof) of black people to exercise their so-called “power” within the organisation.\n</p><p>\n</p><p>Perhaps, in another article, we shall discuss the problematic nature of mme Helen Zille’s tweets; but, for now, allow me to present the following analogy: if, for instance, I were to intentionally infect you with a certain virus, and after some time of being subjected to pain and suffering due to that virus, I develop an antidote that would cure or make you feel better, it would be rather “sociopath-ish” of me to praise myself for developing the antidote, when it was I who caused the pain and suffering in the first place. Similarly, colonialism caused poverty in Africa. How? Well, the introduction of restrictive borders, pollution and the looting of African resources disrupted Africa’s “natural economy” and the African ways of survival. Because of this, it is disingenuous to praise anything that has to do with colonialism or its legacy, especially as a white South African. To boast about the infrastructure (the “antidote”) that was built on the backs of the colonised is actually quite ridiculously arrogant and shows how “out of touch” some DA leaders are with the realities of the ordinary South African. \n</p><p>\n</p><p>The woes of the DA, in relation to race, did not end there. In April of 2018, there were discussions about how the DA would address issues of transformation within the party, and ultimately, in the spaces where they govern. The real question was whether they were willing to set demographically-based targets in order to have a more equitably diverse setting within the spectrum of the party or not. During their gathering, the use of the country’s demographics as a “guide” was simply rejected. “Diversity” was merely generalised, with no clear targets whatsoever. As per the Democratic Alliances’ Federal Constitution (as amended in April 2018), “The Party solemnly subscribes to the preamble to the Constitution of South Africa which recognizes the injustices of our past, and affirms that South Africa belongs to all who live in it, united in diversity.  The Party will continue to take active steps to promote and advance diversity in its own ranks”. You’d find it interesting to note that the word “transformation” is nowhere to be found in the DA’s constitution, with no clear indication of how the party plans on distributing access to opportunities and wealth equitably. One of the DA’s core policies, which relates to “fair access to jobs,” is nothing but direct criticism of the ANC government and a promise to do things “better”.There is no mention of equity in relation to the demographics of the country. Perhaps this is the DA’s “liberal” stance, I am not quite sure.\n</p><p>\n</p><p>In Europe, perhaps such a “liberal” stance would work; but, in South Africa, where levels of inequality are amongst the highest in the world (with a Gini Index of about 0.7 in 2015), a “liberal” position of this type makes no sense to South Africans. Liberalism, in its basic form and definition, isn’t a bad idea (on paper). It can, however, be used as an instrument of perpetuating the socio-economic status-quo. To ignore the fact that others benefitted unduly and to not do anything to redress the economic injustices is telling of a party’s priorities. \n</p><p>\n</p><p>Apartheid might have ended over 20 years ago; however, the systems of apartheid persist still. There might be no visible nor tangible boards or signs with the words “whites only” printed on them, as things were during apartheid, however, certain barriers of entry to certain spaces have demonstrated the ability to be as effective as the actual apartheid “whites only” boards and signs. It seems as though the DA does not understand that <i><b>“equal opportunity” does not necessarily mean “equal access to opportunity.”</b></i> For example, “mobile data” is available to all. Any person, black or white, can have data on their phones, which would allow them to access the internet and to read this article; however, not everyone has access to data. Not everyone can afford it. In this case, “money” or “proximity” is the barrier. So, you see, even though we have equal “opportunity”, we do not have “equal access”. \n</p><p>\n</p><p>In South Africa, fact is, the inequality correlates with race. And so, how can the Democratic Alliance presume that it can address inequality without considering “race”? It makes no sense at all. According to Stats SA’s “Living Conditions of Households in South Africa Report” of 2015, nearly one in every ten (12.39%) of black African-headed households in South Africa earn over R71 478.00 per annum. This means that over 87.61% of black African-headed households earn less than roughly R5 957.00 per month. When looking at the white community, 74.87% of white-headed households earned more than R71 478.00 per annum; and so, of course, the inequality corresponds to race, in South Africa!\n</p><p>\n</p><p>Considering all that is mentioned above, if the Democratic Alliance actively chooses to negate or ignore “race” in their policies, they would actually be acting in a manner that protects the exclusive advantages and interests of white people in South Africa. They would be contributing to the economic underdevelopment of black South Africans. They would be active participants in the intangible systems of apartheid that persist, and by virtue of that, present themselves as agents of a racist political party, or at least, an institutionally racist political party. And if all of the above mentioned in this final paragraph is true, the answer to the above question is: the Democratic Alliance [the DA] <i>is</i> racist. \n</p><p><br></p><div>\n</div><div>\n</div><div>\n</div><div>- Jimmy Ramokgopa (<a href=\"https://twitter.com/JimmyRamokgopa\" target=\"_blank\">@JimmyRamokgopa</a>)</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -918,7 +931,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -979,7 +992,7 @@
             "overlayOpacity": 0.2
           },
           "title": "EFF VS PRAVIN",
-          "text": "<p>Cartoonist Jimmy Ramokgopa depicts the fight between the EFF and Minister Pravin Gordhan in today’s cartoon - 2 December 2018\r</p>",
+          "text": "<p>Cartoonist Jimmy Ramokgopa depicts the fight between the EFF and Minister Pravin Gordhan in today’s cartoon - 02 December 2018\n</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -1114,7 +1127,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1269,6 +1282,254 @@
           ],
           "_name": "form2",
           "_anchor": "form2-12"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.",
+        "title": "Is Good Good Enough? - Politricks SA",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CARTOONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" aria-expanded=\"false\">EFF VS Pravin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" aria-expanded=\"false\">The Dark Age of Load Shedding</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://politricks.co.za",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-13"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "60px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/620x349-620x348.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#162d47",
+            "overlayOpacity": "0.7"
+          },
+          "title": "IS GOOD GOOD ENOUGH?",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-14"
+        },
+        {
+          "text": "<p>16 December 2018 - Nelio Nhacuangue</p><p><br></p><p>Good took social media by storm, with every second person striking fun at the rather unusual name. The satire went from “<i>goodness</i>, not another party, this is <i>bad</i>” to our favorite puppet, Chester Missing, proposing to establish his own political party called “Not Enough”, with the aim of going into coalition with the “Good party” and collectively be dubbed “Not Good Enough”. This chuckled my funny bone to an extent that I forgot the politics of it all… now back to politics and the reason I am penning this article. \n</p><p>\n</p><p>Over the years, we have seen a fair share of breakaway parties. For example, COPE, which broke-away from the ANC and led by former ANC bigwigs Mosiuoa Lekota and Mbhazima Shilowa, who did very well for their first election by shaking the ANC hegemony, which was not much, but a shake nonetheless. One could argue that EFF is indeed a breakaway party of the ANC, which campaigned against corruption and putting the interests of “the people” first, particularly the black majority. They became known as “corruption busters” and “land pushers.”\n</p><p>\n</p><p>This was a welcomed relief to the people who felt forgotten, particularly young people who are continually failed by the governing ANC. This fresh-air became surprisingly choking in the past few weeks, with allegations that the EFF, the protectors of the poor, are fingered in the “Great Bank Heist”, a report looking into the looting of almost 2 billion Rand of pension and burial society monies of rural Venda people from VBS Mutual Bank; and, constant links of the party to shady characters like self-confessed smuggler Adriano Mazzotti. And of course, the attack on the media and the denial of any negative reporting that comes the party's way.\n</p><p>\n</p><p>A fall from grace, former corruption busters now nabbed as corruption perpetrators. The Gucci wearing emperor is now walking naked, and sadly, the emperor is somehow oblivious to this fact, as one political analyst [Prince Mashele] sums up the EFF quite interestingly, he says that “The ANC is a university of corruption and the EFF are its graduates”. What COPE and the EFF have in common is the dislike for the ANC. Politics like these often do not have the interest of “the people” at heart. It is effectively factional battles playing themselves out in two different arenas, in this case, different political parties.\n</p><p>\n</p><p>Good, a party started by former leader of Independent Democrats and former Mayor\n</p><p>(under the DA) Patricia de Lille, is quite interesting because it doesn't follow the logic of most\n</p><p>breakaway parties. Why do I say that? Patricia de Lille had her own party, the ID, which\n</p><p>dominated the so-called coloured vote in the Western Cape. Motivated by the hunger of power, Patricia de Lille struck a merger deal with the DA which saw the ID being incorporated into the DA, and in exchange, Patricia de Lille would get the mayoral post of Cape Town.\n</p><p>\n</p><p>She has been the mayor for almost 7 years. One of the pillars of her party is to do away with apartheid spatial planning and bring previously disadvantaged people closer to the city center and transportation facilities. This she only realised when things went sour for her in the DA. After her fallout with the DA and the corruption allegations, she cries “racism” within the DA and further states that the DA wants to keep the status quo of ensuring that the city is exclusive to the upper-middle class and the affluent. My question is this: she has been mayor for almost 7 years, what has she done for the poor to be closer to the city? When did she realise that the DA is racist?\n</p><p>\n</p><p>These are the questions that come to mind when listening to her interviews. Why should people trust Patricia de Lille with their votes if she could not advance their interests when she was in power? What will she do differently? Spatial planning is not a new thing and Patricia de Lille has been privy to this fact long before she became mayor and failed to address it adequately. As an observer, Patricia de Lille is trying to punish the DA because they ousted her for corruption allegations and took away her prestigious mayoral chain. \n</p><p>\n</p><p>Patricia de Lille wants to cause the DA an upset in the 2019 general elections and wants to ensure that she becomes a member of parliament as this will guarantee her a pay cheque for the next 5 years. I hope Ms de Lille's party doesn't follow a trajectory of all breakaway parties who become close to being irrelevant after participating in their first election. The likes of the NFP (which come from the IFP) and COPE know this very well.\n</p><p><br></p><div>\n</div><div>\n</div><div>\n</div><div>- Nelio Nhacuangue (@Nelio_five)</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#162d47"
+            }
+          },
+          "_anchor": "content1-15"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-16"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AUTHOR",
+          "text": "<p>Nelio Nhacuangue</p><p>Aspiring political analyst.\r</p><p>He holds a degree in Political Science and International Relations.\r</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://twitter.com/Nelio_five?lang=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TWITTER</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-17"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "blakseedent@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-18"
         }
       ]
     }
