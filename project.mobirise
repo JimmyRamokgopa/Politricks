@@ -56,7 +56,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-750x750.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-750x750.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -131,7 +131,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -296,7 +296,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -544,7 +544,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -687,7 +687,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -935,7 +935,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1009,7 +1009,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/eff-vs-pravic-cartoon-1400x1009.png",
+              "src": "@PROJECT_PATH@/assets/images/eff%20vs%20pravic%20cartoon-1400x1009.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1131,7 +1131,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1205,7 +1205,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/load-shedding-1400x1019.png",
+              "src": "@PROJECT_PATH@/assets/images/load%20shedding-1400x1019.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1327,7 +1327,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1575,7 +1575,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20design-128x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1649,7 +1649,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbuzi-maimane-1400x1074.png",
+              "src": "@PROJECT_PATH@/assets/images/mbuzi%20maimane-1400x1074.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
