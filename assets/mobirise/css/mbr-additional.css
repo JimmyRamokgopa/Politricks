@@ -351,6 +351,12 @@
 #content1-1l DIV {
   color: #162d47;
 }
+#content1-1l P {
+  color: #000000;
+}
+#content1-1r P {
+  color: #000000;
+}
 #msg-box4-1n .mbr-header__text {
   color: #ffffff;
 }
