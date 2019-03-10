@@ -1,13 +1,14 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#162d47"
+        "#162d47",
+        "#051170"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -42,7 +43,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/blue-sky-640x334.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2969b0",
+            "bgColor": "#051170",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -56,7 +57,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-750x750.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-572x665.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -131,13 +132,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://www.politricks.co.za",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
@@ -309,7 +309,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -557,7 +557,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -700,7 +700,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -948,7 +948,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1144,7 +1144,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1340,7 +1340,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1588,7 +1588,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1784,7 +1784,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -1980,7 +1980,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-design-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
