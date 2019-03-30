@@ -22,7 +22,7 @@
       "settings": {
         "main": true,
         "title": "Politricks SA - the real voices of young people in South Africa.",
-        "meta_descr": "The platform that enables young people to voice their opinions through written articles and podcasts.",
+        "meta_descr": "The platform that enables young people to publish their opinions through written articles and podcasts.\nPolitics.\nNews.\nCartoons.\nPodcasts.\nSouth Africa.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -595,7 +595,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2c82c9",
+            "bgColor": "#051170",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -633,7 +633,12 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-d"
+          "_anchor": "form1-d",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
@@ -2244,7 +2249,7 @@
     },
     "page10.html": {
       "settings": {
-        "meta_descr": "An introduction to the concept of #BetterBlacks and the call to review black empowerment policy.\n",
+        "meta_descr": "Political article that questions the quality of leadership in South Africa. ",
         "title": "A New Dawn or New Dread? - Politricks SA",
         "order": 9
       },

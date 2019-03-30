@@ -92,6 +92,9 @@
 #dropdown-menu-c .navbar-toggler {
   color: #ffffff;
 }
+#form1-d .mbr-header__text {
+  color: #ffffff;
+}
 #dropdown-menu-g .hide-buttons [data-button] {
   display: none !important;
 }
