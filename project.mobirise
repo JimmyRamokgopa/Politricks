@@ -2623,26 +2623,6 @@
           "_anchor": "soundcloud1-22"
         },
         {
-          "_inherit": "soundcloud1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "sound": "https://soundcloud.com/user-740130677",
-            "autoplay": false,
-            "fullWidth": true,
-            "bgColor": "#ffffff"
-          },
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F613898382&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F613898382",
-          "_name": "soundcloud2",
-          "_anchor": "soundcloud2-24"
-        },
-        {
           "_params": {
             "inverse": false,
             "paddingTop": 3,
