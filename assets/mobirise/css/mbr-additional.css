@@ -28,6 +28,9 @@
 #dropdown-menu-0 .navbar-toggler {
   color: #ffffff;
 }
+#social-buttons2-27 .mbr-header__text {
+  text-align: right;
+}
 #dropdown-menu-4 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -447,4 +450,7 @@
 }
 #content5-21 .mbr-article {
   color: #fff;
+}
+#social-buttons2-29 .mbr-header__text {
+  text-align: left;
 }
