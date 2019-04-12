@@ -2630,6 +2630,25 @@
           "_anchor": "content5-21"
         },
         {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "sound": "https://soundcloud.com/user-740130677/introduction-to-politricks-sa-podcasts",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#051170"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F603495339&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F603495339",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-22"
+        },
+        {
           "_params": {
             "showText": true,
             "outside": false,
@@ -2655,25 +2674,6 @@
           ],
           "_name": "image1",
           "_anchor": "image1-2a"
-        },
-        {
-          "_afterNavbarItem": false,
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "sound": "https://soundcloud.com/user-740130677/introduction-to-politricks-sa-podcasts",
-            "autoplay": false,
-            "fullWidth": true,
-            "bgColor": "#051170"
-          },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F603495339&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F603495339",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-22"
         },
         {
           "_params": {
