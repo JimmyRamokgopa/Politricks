@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page11.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,8 +14,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
     "uniqCompNum": 83,
-    "versionPublish": "4.5.4",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
