@@ -16,7 +16,11 @@
     "uniqCompNum": 83,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "UA-131283975-1\r\n",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
