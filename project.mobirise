@@ -79,7 +79,7 @@
               "size": 0
             }
           },
-          "title": "Real voices from the youth, by the youth.",
+          "title": "POLITRICKS SA - THE REAL VOICES",
           "text": "<p>The platform that enables young people to publish their opinions through written articles and podcasts.&nbsp;</p><p><br></p><p>\n</p>",
           "_tags": [
             "Theme"
@@ -87,7 +87,8 @@
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "46px"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
