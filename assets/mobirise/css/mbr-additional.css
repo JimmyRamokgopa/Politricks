@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 #msg-box4-2 .mbr-header__text {
   color: #ffffff;
   text-align: left;
@@ -79,6 +80,7 @@
 #msg-box4-f .mbr-article {
   color: #ffffff;
 }
+
 #dropdown-menu-c .hide-buttons [data-button] {
   display: none !important;
 }
@@ -99,8 +101,25 @@
 #dropdown-menu-c .navbar-toggler {
   color: #ffffff;
 }
+#content5-2f .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-2f .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-2f .mbr-article {
+  color: #fff;
+}
+#content5-2f .mbr-article P {
+  text-align: center;
+}
 #form1-d .mbr-header__text {
   color: #ffffff;
+}
+#form1-d .btn {
+  font-family: 'Open Sans', sans-serif;
 }
 #dropdown-menu-g .hide-buttons [data-button] {
   display: none !important;
