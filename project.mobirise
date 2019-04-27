@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page2.html",
+    "currentPage": "podcast.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 88,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -2636,210 +2636,6 @@
         }
       ]
     },
-    "page11.html": {
-      "settings": {
-        "meta_descr": "Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. ",
-        "title": "Politricks SA - Podcasts",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://www.politricks.co.za",
-              "title": ""
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-20"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff",
-              "font-size": "46px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.6"
-          },
-          "title": "PODCAST",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-21"
-        },
-        {
-          "_afterNavbarItem": false,
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "sound": "https://soundcloud.com/user-740130677/politricks-sa-episode-1-featuring-the-thuli-madonsela-foundation-and-the-social-justice-m-plan-team",
-            "autoplay": false,
-            "fullWidth": true,
-            "bgColor": "#051170"
-          },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F608977422&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F608977422",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-22"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=51fyL9k2ig4",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "The official Politricks SA Podcast ad.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-2a"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/PolitricksSA?lang=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UChcG_uBVA4bFDbAJMTKUiFQ?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/politrickssa/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_styles": {
-            ".mbr-header__text": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "social-buttons2-29"
-        },
-        {
-          "_params": {
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "google": true,
-            "twitter": true
-          },
-          "text": "SHARE THIS PAGE!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-26"
-        }
-      ]
-    },
     "page12.html": {
       "settings": {
         "meta_descr": "A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day. \n",
@@ -3088,6 +2884,210 @@
           ],
           "_name": "form2",
           "_anchor": "form2-1z"
+        }
+      ]
+    },
+    "podcast.html": {
+      "settings": {
+        "meta_descr": "Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. ",
+        "title": "Politricks SA - Podcasts",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.politricks.co.za",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-20"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "46px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.6"
+          },
+          "title": "PODCAST",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-21"
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "sound": "https://soundcloud.com/user-740130677/politricks-sa-episode-1-featuring-the-thuli-madonsela-foundation-and-the-social-justice-m-plan-team",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#051170"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F608977422&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F608977422",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-22"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=51fyL9k2ig4",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "The official Politricks SA Podcast ad.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2a"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/PolitricksSA?lang=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UChcG_uBVA4bFDbAJMTKUiFQ?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/politrickssa/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "social-buttons2-29"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-26"
         }
       ]
     }
