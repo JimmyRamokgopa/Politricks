@@ -3371,7 +3371,7 @@
           "_anchor": "features1-2l",
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "font-size": "24px"
             },
             "P": {
