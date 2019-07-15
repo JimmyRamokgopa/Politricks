@@ -3198,7 +3198,7 @@
               "loop": false
             }
           },
-          "title": "ADVERTISE WITH POLITRICKS SA",
+          "title": "Advertise with Politricks SA",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Change the way you do your marketing and advertising. We will create cool, informative and interesting videos for you to use when promoting your products or services. The videos can be recorded or animated. We can also record and edit adverts for radio. See below for more details.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
@@ -3255,7 +3255,7 @@
               "size": 0
             }
           },
-          "title1": "Video Advert Creation (Social Media)&nbsp;<br><br>",
+          "title1": "Video Advert Creation <br>(Social Media)&nbsp;<br>",
           "caption1": "Politricks SA records, directs and edits videos or animations which can be used to promote services or products, create awareness, inform the public about a particular matter or explain a particular process or concept through a video tutorial. These are high-quality interactive videos that drive engagement and maintain the attention from the audience.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
@@ -3371,7 +3371,8 @@
           "_anchor": "features1-2l",
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "24px"
             },
             "P": {
               "color": "#ffffff",
