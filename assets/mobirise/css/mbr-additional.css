@@ -554,6 +554,13 @@
 #msg-box5-2j .mbr-article {
   color: #ffffff;
 }
+#features1-2l .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#features1-2l P {
+  color: #ffffff;
+  text-align: center;
+}
 #form1-2k .mbr-header__text {
   color: #ffffff;
 }
@@ -562,4 +569,5 @@
 }
 #social-buttons2-2g .mbr-header__text {
   text-align: right;
+  color: #cccccc;
 }
