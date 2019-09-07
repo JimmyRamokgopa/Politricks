@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "Advertise.html",
+    "currentPage": "page14.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 94,
+    "uniqCompNum": 95,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -137,7 +137,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -202,6 +202,19 @@
             "showBullets": true,
             "bgColor": "#ffffff",
             "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/tito-mboweni-2018-830x554.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "TITO MBOWENI'S STRATEGY NEEDS SOUTH AFRICANS TO COLLABORATE\n",
+                "contentAlign": "right",
+                "text": "A look into the \"new\" economic strategy of South Africa.",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
               {
                 "image": "@PROJECT_PATH@/assets/images/anc-supporters-stadium-830x450.jpg",
                 "active": false,
@@ -268,6 +281,19 @@
                 "overlayOpacity": "0.7"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "GIVE THE POOR MONEY, TO SOLVE OUR PROBLEMS<div></div>",
+                "contentAlign": "right",
+                "text": "A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day. &nbsp;<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1552x1080.jpg",
                 "active": false,
                 "showButtons": true,
@@ -279,19 +305,6 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://twitter.com/PolitricksSA\" data-toolbar=\"-mbrBtnMove\">FOLLOW US ON TWITTER</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.8"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "GIVE THE POOR MONEY, TO SOLVE OUR PROBLEMS<div></div>",
-                "contentAlign": "right",
-                "text": "A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day. &nbsp;<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
-                "overlay": true,
-                "overlayOpacity": "0.7"
               }
             ]
           },
@@ -402,7 +415,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -650,7 +663,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -852,7 +865,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -921,7 +934,7 @@
           "_anchor": "content5-h"
         },
         {
-          "text": "<p>6 November 2018 - Jimmy Ramokgopa</p><p><br></p><p>The Democratic Alliance [DA] is the official opposition party of South Africa and has been showing signs of growth since 1994. The DA received 22.2% of the votes in the National Assembly elections in 2014, and 26.9% in the 2016 local government elections (Democratic Alliance, 2018, 03 November 2018, https://www.da.org.za/why-the-da) and the assumption is that it is now becoming more attractive to metropolitan black people.  Despite the growing popularity amongst black people, the DA is often labelled a “white party.” Furthermore, despite their efforts to recruit and place “people of colour” in leadership positions, the general South African population remains unconvinced, especially after numerous racial issues within the party. \n</p><p>\n</p><p>The DA’s racial woes were recently reignited by mme Helen Zille’s controversial tweets about “the legacy of colonialism.” In her argument, the legacy of colonialism, not colonialism, the legacy thereof, is commendable, considering the scale of infrastructural development that has taken place in South Africa. She defiantly argued her point in this regard, despite the DA leader abuti Mmusi Maimane showing disapproval and disagreement. The South African black community observed how abuti Mmusi Maimane attempted to exercise his “power” as the leader, which seemed to lack potency against mme Helen Zille; and, it was at that point where many South Africans came to the conclusion that, even though there are black “leaders” in the DA, the party remains “white” and “white-controlled”, based on the effectiveness (or lack thereof) of black people to exercise their so-called “power” within the organisation.\n</p><p>\n</p><p>Perhaps, in another article, we shall discuss the problematic nature of mme Helen Zille’s tweets; but, for now, allow me to present the following analogy: if, for instance, I were to intentionally infect you with a certain virus, and after some time of being subjected to pain and suffering due to that virus, I develop an antidote that would cure or make you feel better, it would be rather “sociopath-ish” of me to praise myself for developing the antidote, when it was I who caused the pain and suffering in the first place. Similarly, colonialism caused poverty in Africa. How? Well, the introduction of restrictive borders, pollution and the looting of African resources disrupted Africa’s “natural economy” and the African ways of survival. Because of this, it is disingenuous to praise anything that has to do with colonialism or its legacy, especially as a white South African. To boast about the infrastructure (the “antidote”) that was built on the backs of the colonised is actually quite ridiculously arrogant and shows how “out of touch” some DA leaders are with the realities of the ordinary South African. \n</p><p>\n</p><p>The woes of the DA, in relation to race, did not end there. In April of 2018, there were discussions about how the DA would address issues of transformation within the party, and ultimately, in the spaces where they govern. The real question was whether they were willing to set demographically-based targets in order to have a more equitably diverse setting within the spectrum of the party or not. During their gathering, the use of the country’s demographics as a “guide” was simply rejected. “Diversity” was merely generalised, with no clear targets whatsoever. As per the Democratic Alliances’ Federal Constitution (as amended in April 2018), “The Party solemnly subscribes to the preamble to the Constitution of South Africa which recognizes the injustices of our past, and affirms that South Africa belongs to all who live in it, united in diversity.  The Party will continue to take active steps to promote and advance diversity in its own ranks”. You’d find it interesting to note that the word “transformation” is nowhere to be found in the DA’s constitution, with no clear indication of how the party plans on distributing access to opportunities and wealth equitably. One of the DA’s core policies, which relates to “fair access to jobs,” is nothing but direct criticism of the ANC government and a promise to do things “better”.There is no mention of equity in relation to the demographics of the country. Perhaps this is the DA’s “liberal” stance, I am not quite sure.\n</p><p>\n</p><p>In Europe, perhaps such a “liberal” stance would work; but, in South Africa, where levels of inequality are amongst the highest in the world (with a Gini Index of about 0.7 in 2015), a “liberal” position of this type makes no sense to South Africans. Liberalism, in its basic form and definition, isn’t a bad idea (on paper). It can, however, be used as an instrument of perpetuating the socio-economic status-quo. To ignore the fact that others benefitted unduly and to not do anything to redress the economic injustices is telling of a party’s priorities. \n</p><p>\n</p><p>Apartheid might have ended over 20 years ago; however, the systems of apartheid persist still. There might be no visible nor tangible boards or signs with the words “whites only” printed on them, as things were during apartheid, however, certain barriers of entry to certain spaces have demonstrated the ability to be as effective as the actual apartheid “whites only” boards and signs. It seems as though the DA does not understand that <i><b>“equal opportunity” does not necessarily mean “equal access to opportunity.”</b></i> For example, “mobile data” is available to all. Any person, black or white, can have data on their phones, which would allow them to access the internet and to read this article; however, not everyone has access to data. Not everyone can afford it. In this case, “money” or “proximity” is the barrier. So, you see, even though we have equal “opportunity”, we do not have “equal access”. \n</p><p>\n</p><p>In South Africa, fact is, the inequality correlates with race. And so, how can the Democratic Alliance presume that it can address inequality without considering “race”? It makes no sense at all. According to Stats SA’s “Living Conditions of Households in South Africa Report” of 2015, nearly one in every ten (12.39%) of black African-headed households in South Africa earn over R71 478.00 per annum. This means that over 87.61% of black African-headed households earn less than roughly R5 957.00 per month. When looking at the white community, 74.87% of white-headed households earned more than R71 478.00 per annum; and so, of course, the inequality corresponds to race, in South Africa!\n</p><p>\n</p><p>Considering all that is mentioned above, if the Democratic Alliance actively chooses to negate or ignore “race” in their policies, they would actually be acting in a manner that protects the exclusive advantages and interests of white people in South Africa. They would be contributing to the economic underdevelopment of black South Africans. They would be active participants in the intangible systems of apartheid that persist, and by virtue of that, present themselves as agents of a racist political party, or at least, an institutionally racist political party. And if all of the above mentioned in this final paragraph is true, the answer to the above question is: the Democratic Alliance [the DA] <i>is</i> racist. \n</p><p><br></p><div>\n</div><div>\n</div><div>\n</div><div>- Jimmy Ramokgopa (<a href=\"https://twitter.com/JimmyRamokgopa\" target=\"_blank\">@JimmyRamokgopa</a>)</div><p></p>",
+          "text": "<p>6 November 2018 - Jimmy Ramokgopa</p><p><br></p><p>The Democratic Alliance [DA] is the official opposition party of South Africa and has been showing signs of growth since 1994. The DA received 22.2% of the votes in the National Assembly elections in 2014, and 26.9% in the 2016 local government elections (Democratic Alliance, 2018, 03 November 2018, https://www.da.org.za/why-the-da) and the assumption is that it is now becoming more attractive to metropolitan black people.  Despite the growing popularity amongst black people, the DA is often labelled a “white party”. Furthermore, despite their efforts to recruit and place “people of colour” in leadership positions, the general South African population remains unconvinced, especially after numerous racial issues within the party. \n</p><p>\n</p><p>The DA’s racial woes were recently reignited by mme Helen Zille’s controversial tweets about “the legacy of colonialism”. In her argument, the legacy of colonialism, not colonialism, the legacy thereof, is commendable, considering the scale of infrastructural development that has taken place in South Africa. She defiantly argued her point in this regard, despite the DA leader abuti Mmusi Maimane showing disapproval and disagreement. The South African black community observed how abuti Mmusi Maimane attempted to exercise his “power” as the leader, which seemed to lack potency against mme Helen Zille; and, it was at that point where many South Africans came to the conclusion that, even though there are black “leaders” in the DA, the party remains “white” and “white-controlled”, based on the effectiveness (or lack thereof) of black people to exercise their so-called “power” within the organisation.\n</p><p>\n</p><p>Perhaps, in another article, we shall discuss the problematic nature of mme Helen Zille’s tweets; but, for now, allow me to present the following analogy: if, for instance, I were to intentionally infect you with a certain virus, and after some time of being subjected to pain and suffering due to that virus, I develop an antidote that would cure or make you feel better, it would be rather “sociopath-ish” of me to praise myself for developing the antidote, when it was I who caused the pain and suffering in the first place. Similarly, colonialism caused poverty in Africa. How? Well, the introduction of restrictive borders, pollution and the looting of African resources disrupted Africa’s “natural economy” and the African ways of survival. Because of this, it is disingenuous to praise anything that has to do with colonialism or its legacy, especially as a white South African. To boast about the infrastructure (the “antidote”) that was built on the backs of the colonised is actually quite ridiculously arrogant and shows how “out of touch” some DA leaders are with the realities of the ordinary South African. \n</p><p>\n</p><p>The woes of the DA, in relation to race, did not end there. In April of 2018, there were discussions about how the DA would address issues of transformation within the party, and ultimately, in the spaces where they govern. The real question was whether they were willing to set demographically-based targets in order to have a more equitably diverse setting within the spectrum of the party or not. During their gathering, the use of the country’s demographics as a “guide” was simply rejected. “Diversity” was merely generalised, with no clear targets whatsoever. As per the Democratic Alliances’ Federal Constitution (as amended in April 2018), “The Party solemnly subscribes to the preamble to the Constitution of South Africa which recognizes the injustices of our past, and affirms that South Africa belongs to all who live in it, united in diversity.  The Party will continue to take active steps to promote and advance diversity in its own ranks”. You’d find it interesting to note that the word “transformation” is nowhere to be found in the DA’s constitution, with no clear indication of how the party plans on distributing access to opportunities and wealth equitably. One of the DA’s core policies, which relates to “fair access to jobs,” is nothing but direct criticism of the ANC government and a promise to do things “better”.There is no mention of equity in relation to the demographics of the country. Perhaps this is the DA’s “liberal” stance, I am not quite sure.\n</p><p>\n</p><p>In Europe, perhaps such a “liberal” stance would work; but, in South Africa, where levels of inequality are amongst the highest in the world (with a Gini Index of about 0.7 in 2015), a “liberal” position of this type makes no sense to South Africans. Liberalism, in its basic form and definition, isn’t a bad idea (on paper). It can, however, be used as an instrument of perpetuating the socio-economic status-quo. To ignore the fact that others benefitted unduly and to not do anything to redress the economic injustices is telling of a party’s priorities. \n</p><p>\n</p><p>Apartheid might have ended over 20 years ago; however, the systems of apartheid persist still. There might be no visible nor tangible boards or signs with the words “whites only” printed on them, as things were during apartheid, however, certain barriers of entry to certain spaces have demonstrated the ability to be as effective as the actual apartheid “whites only” boards and signs. It seems as though the DA does not understand that <i><b>“equal opportunity” does not necessarily mean “equal access to opportunity.”</b></i> For example, “mobile data” is available to all. Any person, black or white, can have data on their phones, which would allow them to access the internet and to read this article; however, not everyone has access to data. Not everyone can afford it. In this case, “money” or “proximity” is the barrier. So, you see, even though we have equal “opportunity”, we do not have “equal access”. \n</p><p>\n</p><p>In South Africa, fact is, the inequality correlates with race. And so, how can the Democratic Alliance presume that it can address inequality without considering “race”? It makes no sense at all. According to Stats SA’s “Living Conditions of Households in South Africa Report” of 2015, nearly one in every ten (12.39%) of black African-headed households in South Africa earn over R71 478.00 per annum. This means that over 87.61% of black African-headed households earn less than roughly R5 957.00 per month. When looking at the white community, 74.87% of white-headed households earned more than R71 478.00 per annum; and so, of course, the inequality corresponds to race, in South Africa!\n</p><p>\n</p><p>Considering all that is mentioned above, if the Democratic Alliance actively chooses to negate or ignore “race” in their policies, they would actually be acting in a manner that protects the exclusive advantages and interests of white people in South Africa. They would be contributing to the economic underdevelopment of black South Africans. They would be active participants in the intangible systems of apartheid that persist, and by virtue of that, present themselves as agents of a racist political party, or at least, an institutionally racist political party. And if all of the above mentioned in this final paragraph is true, the answer to the above question is: the Democratic Alliance [the DA] <i>is</i> racist. \n</p><p><br></p><div>\n</div><div>\n</div><div>\n</div><div>- Jimmy Ramokgopa (<a href=\"https://twitter.com/JimmyRamokgopa\" target=\"_blank\">@JimmyRamokgopa</a>)</div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -1100,7 +1113,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1296,7 +1309,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1492,7 +1505,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1740,7 +1753,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1936,7 +1949,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2132,7 +2145,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2328,7 +2341,7 @@
             }
           },
           "title": "AUTHOR",
-          "text": "<p>Jimmy Ramokgopa\r</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\r</p><p>Businessman - socio-economic and political commentator \r</p><p>Activist \r</p>",
+          "text": "<p>Jimmy Ramokgopa\n</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\n</p><p>Businessman - socio-economic and political commentator \n</p><p>Activist - The Collab Movement&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -2423,7 +2436,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2674,7 +2687,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2925,7 +2938,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3129,7 +3142,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3464,6 +3477,254 @@
             }
           },
           "_anchor": "social-buttons2-2g"
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "meta_descr": "Ideology, particularly in South Africa, seems to be the only reference upon which all political arguments are based. It’s as if certain political parties argue in a manner which is exclusively aligned to a particular ideology. They discard anything that contradicts their indoctrinated way of thinking, without questioning whether it makes economic sense or not.\n- Jimmy Ramokgopa",
+        "title": "Tito Mboweni’s strategy needs South Africans to collaborate - Politricks SA",
+        "order": 14
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.politricks.co.za",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-13"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tito-mboweni-2018-830x554.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "TITO MBOWENI'S STRATEGY NEEDS SOUTH AFRICANS TO COLLABORATE<div><br></div>",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-14"
+        },
+        {
+          "text": "<p>08 September 2019 - Jimmy Ramokgopa</p><p><br></p><p>&nbsp;“95% of economics is common sense”, these were the words of Ha-Joon Chang, a South Korean institutional economist, who specialises in development economics and has contributed to research in the Political Economy of Development at the University of Cambridge. In other words, you don’t have to be an economist to understand economics, but only if you apply your mind.</p><p><br></p><p>\n</p><p>\n</p><p>After going through the National Treasury's recent document, which highlights a proposed economic strategy for South Africa, I can safely say that a substantial amount of what is in that document sounds right. But, one would wonder, what is “right”? This is a very subjective word, indeed, because what seems to be “right” to a neoliberal such as myself may be completely “wrong” to a communist such as Dr Blade Nzimande. Therefore, from an ideological point of view, the neoliberal will always be “right” in his or her own terms, and similarly, the communist will always be “right” in his or her own terms. But, who is “right-right”? Who do we listen to and why?\n</p><p>\n</p><p><br></p><p>Ideology, particularly in South Africa, seems to be the only reference upon which all political arguments are based. It’s as if certain political parties argue in a manner which is exclusively aligned to a particular ideology. They discard anything that contradicts their indoctrinated way of thinking, without questioning whether it makes economic sense or not.\n</p><p>\n</p><p><br></p><p>We have seen this many times before. During heated debates about the nationalisation of the land, the arguments are largely based on ideologies from the Freedom Charter and radical socialist regimes. Supporters of nationalisation seldom base their arguments on the actual economics that are relevant to South Africa. We observe similar arguments regarding the NHI - arguments that are based on a particular ideology and reference to Section 27 of the Constitution, which declares access to healthcare services a universal right. This ideology is what drives the political decision, despite having alternative strategies that are based on actual economics.\n</p><p>\n</p><p><br></p><p>This is the illness in South African politics - ideology supersedes common sense, and these ideologies prevent us from collaborating to implement great ideas. If an idea is not aligned to the ideology that has captured a particular group of people, to that particular group, the idea is “wrong”, even if it has the potential to improve the economy of the country. The gateless intellectual prison, referred to as “ideology” in this article, has become a hindrance to the progress and prosperity of our country. This is observed in the reasoning behind the critique of Minister Tito Mboweni’s strategy by some.\n</p><p>\n</p><p><br></p><p>If we agree to consider economics as “glorified common sense”, why are we unable to engage in discourse related to economic matters on the basis of common sense? Should we not be asking ourselves whether Minister Tito Mboweni’s ideas make sense or not, before lambasting them on an ideological position? \n</p><p>\n</p><p><br></p><p>Does it make sense to reduce certain red-tapes in the banking sector and making it less difficult for individuals to establish and operate commercial banks? I think it does. Does it make sense to reduce VISA regulations strategically, in order to boost tourism? Of course! Does it make sense to make rails and ports more accessible to the private sector, to stimulate trade and job opportunities? I think so. And does it make sense to open the power producing sector to more players, creating jobs in the sector, stabilising the supply and dismantling a monopoly? Absolutely!\n</p><p>\n</p><p><br></p><p>With the above said, I do accept that we are not a homogenous group and cannot agree completely on all matters relating to the economy, and that is why I am advocating for a “collaborative approach”. Collaboration simply means that we work together towards a common goal, despite our differences. The common goal right now is to save the economy and we must never allow “ideology” to substitute “common sense” in pursuing that goal. Collaboration, guided by logic, reasoning and good ol’ fashioned common sense, is what we need right now.</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#162d47"
+            }
+          },
+          "_anchor": "content1-15"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-16"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20181027-wa0008-1280x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AUTHOR",
+          "text": "<p>Jimmy Ramokgopa\n</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\n</p><p>Businessman - socio-economic and political commentator \n</p><p>Activist - The Collab Movement&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://twitter.com/JimmyRamokgopa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TWITTER</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "blakseedent@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-18"
         }
       ]
     }
