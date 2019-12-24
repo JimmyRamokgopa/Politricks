@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page14.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,16 +14,19 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
     "uniqCompNum": 95,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-131283975-1');\r\n</script>\r\n\r\n\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\r\n<script>\r\nwindow.dataLayer = window.dataLayer || [];\r\nfunction gtag(){dataLayer.push(arguments);}\r\ngtag('js', new Date());\r\n\r\ngtag('config', 'UA-131283975-1', { 'optimize_id': 'GTM-5QM2Z5G'});\r\n</script>\r\n\r\n<!-- Twitter universal website tag code -->\r\n<script>\r\n!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);\r\n},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',\r\na=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');\r\n// Insert Twitter Pixel ID and Standard Event data below\r\ntwq('init','o1qw6');\r\ntwq('track','PageView');\r\n</script>\r\n<!-- End Twitter universal website tag code -->",
-    "siteUrl": "",
+    "favicon": false,
+    "noImageResize": false,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-131283975-1');\n</script>\n\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\n\ngtag('config', 'UA-131283975-1', { 'optimize_id': 'GTM-5QM2Z5G'});\n</script>\n\n<!-- Twitter universal website tag code -->\n<script>\n!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);\n},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',\na=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');\n// Insert Twitter Pixel ID and Standard Event data below\ntwq('init','o1qw6');\ntwq('track','PageView');\n</script>\n<!-- End Twitter universal website tag code -->\n\n<!--twitter important OG data-->\n<meta name=\"twitter:title\" content=\"{{title}}\">\n<meta name=\"twitter:description\" content=\"{{words-in-summary}}\">\n<meta name=\"twitter:image\" content=\"{{image-to-render-onlink}}\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:site\" content=\"{{@yourusername}}\">\n<meta property=\"og:image:width\" content=\"280\" />\n<meta property=\"og:image:height\" content=\"150\" />\n \n<!--This will @mention you when people click twitter share button on your article to tweet-->\n \n<link rel=\"me\" href=\"https://twitter.com/@yourusername\">",
+    "siteUrl": false,
     "robotsText": "User-agent: Twitterbot",
     "robotsSwitcher": "on",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -33,79 +36,10 @@
         "meta_descr": "The platform that enables young people to publish their opinions through written articles and podcasts.\nPolitics.\nNews.\nCartoons.\nPodcasts.\nSouth Africa.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/what%20are%20politoons-1920x1136.png"
       },
       "components": [
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/blue-sky-640x334.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#051170",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/white-logo-572x665.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "POLITRICKS SA - THE REAL VOICES",
-          "text": "<p>The platform that enables young people to publish their opinions through written articles and podcasts.&nbsp;</p><p><br></p><p>\n</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff",
-              "text-align": "left",
-              "font-size": "46px"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2"
-        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -117,10 +51,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -132,7 +66,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -410,7 +344,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -658,7 +592,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -860,7 +794,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1108,7 +1042,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1304,7 +1238,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1500,7 +1434,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1748,7 +1682,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -1944,7 +1878,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -2140,7 +2074,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -2431,7 +2365,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -2682,7 +2616,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -2933,7 +2867,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -3137,7 +3071,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
@@ -3513,7 +3447,7 @@
             "hideButtons": false,
             "sticky": true,
             "transparent": true,
-            "bgColor": "#333333",
+            "bgColor": "#051170",
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
