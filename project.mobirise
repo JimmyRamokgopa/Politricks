@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page14.html",
+    "currentPage": "Advertise.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,7 +19,7 @@
     "siteFonts": [],
     "favicon": false,
     "noImageResize": false,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-131283975-1');\n</script>\n\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\n\ngtag('config', 'UA-131283975-1', { 'optimize_id': 'GTM-5QM2Z5G'});\n</script>\n\n<!-- Twitter universal website tag code -->\n<script>\n!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);\n},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',\na=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');\n// Insert Twitter Pixel ID and Standard Event data below\ntwq('init','o1qw6');\ntwq('track','PageView');\n</script>\n<!-- End Twitter universal website tag code -->\n\n<!--twitter important OG data-->\n<meta name=\"twitter:title\" content=\"title\">\n<meta name=\"twitter:description\" content=\"words-in-summary\">\n<meta name=\"twitter:image\" content=\"image-to-render-onlink\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:site\" content=\"@PolitricksSA\">\n<meta property=\"og:image:width\" content=\"280\" />\n<meta property=\"og:image:height\" content=\"150\" />\n \n<!--This will @mention you when people click twitter share button on your article to tweet-->\n \n<link rel=\"me\" href=\"https://twitter.com/@PolitricksSA\">",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-131283975-1');\n</script>\n\n\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131283975-1\"></script>\n<script>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\n\ngtag('config', 'UA-131283975-1', { 'optimize_id': 'GTM-5QM2Z5G'});\n</script>\n\n<!-- Twitter universal website tag code -->\n<script>\n!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);\n},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',\na=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');\n// Insert Twitter Pixel ID and Standard Event data below\ntwq('init','o1qw6');\ntwq('track','PageView');\n</script>\n<!-- End Twitter universal website tag code -->\n\n<!--twitter important OG data-->\n<meta name=\"twitter:title\" content=\"title\">\n<meta name=\"twitter:description\" content=\"description\">\n<meta name=\"twitter:image\" content=\"{{image-to-render-onlink}}\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:site\" content=\"@PolitricksSA\">\n<meta property=\"og:image:width\" content=\"280\" />\n<meta property=\"og:image:height\" content=\"150\" />\n \n<!--This will @mention you when people click twitter share button on your article to tweet-->\n \n<link rel=\"me\" href=\"https://twitter.com/@PolitricksSA\">",
     "siteUrl": false,
     "robotsText": "User-agent: Twitterbot",
     "robotsSwitcher": "on",
@@ -329,10 +329,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -563,7 +563,8 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Politricks SA - Contact Us",
-        "order": 7
+        "order": 7,
+        "meta_image": "@PROJECT_PATH@/assets/images/what%20are%20politoons-1920x1136.png"
       },
       "components": [
         {
@@ -577,10 +578,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -779,10 +780,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1419,10 +1420,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2059,10 +2060,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2350,10 +2351,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2601,10 +2602,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2838,7 +2839,8 @@
       "settings": {
         "meta_descr": "Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. ",
         "title": "Politricks SA - Podcasts",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/type%205-1000x1000.png"
       },
       "components": [
         {
@@ -2852,10 +2854,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -3042,7 +3044,8 @@
       "settings": {
         "meta_descr": "We can create a short video for you to use for advertising on social media.\nWe can also advertise your services or products on our social media.\nContact us to learn more. ",
         "title": "Advertise with Politricks SA",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/sddefault.jpeg"
       },
       "components": [
         {
@@ -3056,10 +3059,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#333333"
+              "background": "#051170"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
+              "background": "#040e5c"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
