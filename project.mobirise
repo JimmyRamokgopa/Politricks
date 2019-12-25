@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page11.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 101,
+    "uniqCompNum": 114,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -328,7 +328,7 @@
       "settings": {
         "meta_descr": "We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.",
         "title": "Dreams for Sale - Politricks SA",
-        "order": 4,
+        "order": 5,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Dreams for Sale - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1K15tARIUc09ptZHRf_PNnwWueapYpDR5/view?usp=sharing\" />"
       },
       "components": [
@@ -577,7 +577,7 @@
       "settings": {
         "meta_descr": "Contact us to discuss potential partnerships and marketing opportunities. ",
         "title": "Politricks SA - Contact Us",
-        "order": 3,
+        "order": 4,
         "meta_image": "@PROJECT_PATH@/assets/images/what%20are%20politoons-1920x1136.png",
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA - Contact Us\" />\n<meta name=\"twitter:description\" content=\"Contact us to discuss potential partnerships and marketing opportunities. \" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/10ho6HM8QTCP_Pv6XWtipOFcUQArIWJ_g/view?usp=sharing\" />"
       },
@@ -781,7 +781,7 @@
       "settings": {
         "meta_descr": "An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.",
         "title": "Is the DA Racist? - Politricks SA",
-        "order": 5,
+        "order": 6,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Is the DA Racist? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1sMjtxEOY5AOuL_MQCRGSnAsvxiO8d4Di/view?usp=sharing\" />"
       },
       "components": [
@@ -1030,7 +1030,7 @@
       "settings": {
         "meta_descr": "An anaysis of Patricia de Lille's new political party, Good.",
         "title": "Is Good Good Enough? - Politricks SA",
-        "order": 9,
+        "order": 10,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Is Good Good Enough? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An anaysis of Patricia de Lille's new political party, Good.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1Cq_bKdajbCWfWuzCgdDoUPEgH2f2tzsN/view?usp=sharing\" />"
       },
       "components": [
@@ -1279,7 +1279,7 @@
       "settings": {
         "meta_descr": "An introduction to the concept of #BetterBlacks and the call to review black empowerment policy.\n",
         "title": "Better Blacks [Part 1] #BetterBlacks - Politricks SA",
-        "order": 6,
+        "order": 7,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Better Blacks [Part 1] #BetterBlacks - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An introduction to the concept of #BetterBlacks and the call to review black empowerment policy.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1lyVpUNu-Zgtf33alo6sw5eWvuQi5RU5E/view?usp=sharing\" />"
       },
       "components": [
@@ -1571,7 +1571,7 @@
       "settings": {
         "meta_descr": "Political article that questions the quality of leadership in South Africa. ",
         "title": "A New Dawn or New Dread? - Politricks SA",
-        "order": 7,
+        "order": 8,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"A New Dawn or New Dread? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Political article that questions the quality of leadership in South Africa.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1sDkUkipdOneRwn-7YRQ4y-TYYFf9U0DC/view?usp=sharing\" />"
       },
       "components": [
@@ -1823,7 +1823,7 @@
       "settings": {
         "meta_descr": "A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day. \n",
         "title": "Give the Poor Money to Solve our Problems - Politricks SA",
-        "order": 8,
+        "order": 9,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Give the Poor Money to Solve our Problems - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1UbDH1Vh5UritJhWXZniKaC-bqWDZohNZ/view?usp=sharing\" />"
       },
       "components": [
@@ -2075,7 +2075,7 @@
       "settings": {
         "meta_descr": "Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. ",
         "title": "Politricks SA - Podcasts",
-        "order": 2,
+        "order": 3,
         "meta_image": "@PROJECT_PATH@/assets/images/radio%20mic-1024x678.jpg",
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA - Podcasts\" />\n<meta name=\"twitter:description\" content=\"Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. \" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1463RxaPQji76enJngnAvfWXffA2yl_6u/view?usp=sharing\" />"
       },
@@ -2281,7 +2281,7 @@
       "settings": {
         "meta_descr": "We can create a short video for you to use for advertising on social media.\nWe can also advertise your services or products on our social media.\nContact us to learn more. ",
         "title": "Advertise with Politricks SA",
-        "order": 1,
+        "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/sddefault.jpeg",
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Advertise with Politricks SA\" />\n<meta name=\"twitter:description\" content=\"We can create a short video for you to use for advertising on social media.\nWe can also advertise your services or products on our social media. Contact us to learn more.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/10ho6HM8QTCP_Pv6XWtipOFcUQArIWJ_g/view?usp=sharing\" />"
       },
@@ -2659,7 +2659,7 @@
       "settings": {
         "meta_descr": "Ideology, particularly in South Africa, seems to be the only reference upon which all political arguments are based. It’s as if certain political parties argue in a manner which is exclusively aligned to a particular ideology. They discard anything that contradicts their indoctrinated way of thinking, without questioning whether it makes economic sense or not.\n- Jimmy Ramokgopa",
         "title": "Tito Mboweni’s strategy needs South Africans to collaborate - Politricks SA",
-        "order": 10,
+        "order": 11,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Tito Mboweni’s strategy needs South Africans to collaborate - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Ideology, particularly in South Africa, seems to be the only reference upon which all political arguments are based. It’s as if certain political parties argue in a manner which is exclusively aligned to a particular ideology. They discard anything that contradicts their indoctrinated way of thinking, without questioning whether it makes economic sense or not.- Jimmy Ramokgopa\" />\n<meta name=\"twitter:image\" content= \"https://drive.google.com/file/d/1GV6_udBjO-T9uPkI2KB-F4DQpSwY6IUZ/view?usp=sharing\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
       },
       "components": [
@@ -2909,7 +2909,7 @@
       "settings": {
         "meta_descr": "Economic freedom in our lifetime… how often have you heard that phrase? What is “economic freedom” and what does it actually mean? A glance through Google might come as a surprise to many, especially those who have associated economic freedom to socialism.",
         "title": "Economic freedom is a liberal concept - Politricks SA",
-        "order": 11,
+        "order": 12,
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Economic freedom is a liberal concept - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A look into the real meaning of economic freedom.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/img-20181027-wa0008-1280x960.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
       },
       "components": [
@@ -3152,6 +3152,633 @@
           ],
           "_name": "form2",
           "_anchor": "form2-2s"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "title": "Articles - Politricks SA",
+        "meta_descr": "List of all articles.",
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Articles - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"The real voices of young people in South Africa.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/10ho6HM8QTCP_Pv6XWtipOFcUQArIWJ_g/view?usp=sharing\" />",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/type%205-1000x1000.png",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#051170"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#040e5c"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#051170",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.politricks.co.za",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-2t"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sloganism-385x385.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "ECONOMIC FREEDOM IS A LIBERAL CONCEPT",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>A look into the real meaning of economic freedom.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2y"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poor-sa-350x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "TITO MBOWENI'S STRATEGY NEEDS SOUTH AFRICANS TO COLLABORATE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>A look into the \"new\" economic strategy of South Africa.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page14.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2z"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poor-sa-350x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "A NEW DAWN OR NEW DREAD?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Are there any political parties that act in the best interest of the people?</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-30"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poor-sa-350x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "DREAMS FOR SALE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>The first article of Politricks sets the tone and agenda of this movement. It highlights some of the difficulties faced by young people and how false-promises have contributed to the feeling of depression and non-achievement&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-32"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poor-sa-350x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "IS THE DA RACIST?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-31"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poor-sa-350x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "IS GOOD GOOD ENOUGH?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>An analysis of the new political party established by Patricia de Lille and how others that came before it are seen in the political landscape.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-33"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poor-sa-350x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "BETTER BLACKS\n<div>[PART 1]</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>An introduction to the concept of #BetterBlacks and the call to review black empowerment policy.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-34"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "16",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/poor-sa-350x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "GIVE THE POOR MONEY, TO SOLVE OUR PROBLEMS",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day. &nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-35"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO JOIN THE MOVEMENT",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>",
+          "form": {
+            "action": "NEWS@POLITRICKS.CO.ZA",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/PolitricksSA?lang=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UChcG_uBVA4bFDbAJMTKUiFQ?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/politrickssa/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "right"
+            }
+          },
+          "_anchor": "social-buttons2-2x"
         }
       ]
     }
