@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "index.html",
+    "currentPage": "podcast.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2946,7 +2946,7 @@
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "1",
-            "sound": "https://soundcloud.com/user-740130677/has-social-media-influenced-the-way-people-vote-politricks-sa-episode-2",
+            "sound": "https://soundcloud.com/you/tracks",
             "autoplay": false,
             "fullWidth": true,
             "bgColor": "#051170"
