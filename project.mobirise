@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page13.html",
+    "currentPage": "Advertise.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -34,10 +34,9 @@
         "main": true,
         "title": "Politricks SA - the real voices of young people in South Africa.",
         "meta_descr": "The platform that enables young people to publish their opinions through written articles and podcasts.\nPolitics.\nNews.\nCartoons.\nPodcasts.\nSouth Africa.",
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA\" />\n<meta name=\"twitter:description\" content=\"The real voices of young people in South Africa.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/10ho6HM8QTCP_Pv6XWtipOFcUQArIWJ_g/view?usp=sharing\" />",
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA\" />\n<meta name=\"twitter:description\" content=\"The real voices of young people in South Africa.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/type-6-1000x1000-800x800.png\" />",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/type%205-1000x1000.png"
+        "html_before": ""
       },
       "components": [
         {
@@ -329,7 +328,7 @@
         "meta_descr": "We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.",
         "title": "Dreams for Sale - Politricks SA",
         "order": 5,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Dreams for Sale - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1K15tARIUc09ptZHRf_PNnwWueapYpDR5/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Dreams for Sale - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"We are the generation whom a lot has been promised to. We are the generation that was told by everyone that engineers, accountants and the likes were in high demand and that if we ventured into those careers, jobs and money would be in abundance! What a scam! The sight of graduates standing at street corners, begging for jobs, has become normalised. The countless doors that the “key of education” has failed to unlock has left many of us questioning the legitimacy of our academic success and the prospects of the future.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/dreams-for-sale-1080x1080-800x800.jpg\" />"
       },
       "components": [
         {
@@ -578,8 +577,7 @@
         "meta_descr": "Contact us to discuss potential partnerships and marketing opportunities. ",
         "title": "Politricks SA - Contact Us",
         "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/what%20are%20politoons-1920x1136.png",
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA - Contact Us\" />\n<meta name=\"twitter:description\" content=\"Contact us to discuss potential partnerships and marketing opportunities. \" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/10ho6HM8QTCP_Pv6XWtipOFcUQArIWJ_g/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA - Contact Us\" />\n<meta name=\"twitter:description\" content=\"Contact us to discuss potential partnerships and marketing opportunities. \" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/card-image-777x777-777x777.png\" />"
       },
       "components": [
         {
@@ -782,7 +780,7 @@
         "meta_descr": "An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.",
         "title": "Is the DA Racist? - Politricks SA",
         "order": 6,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Is the DA Racist? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1sMjtxEOY5AOuL_MQCRGSnAsvxiO8d4Di/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Is the DA Racist? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An analysis of how and why young people (or people in general) see the Democratic Alliance as a racist political party.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/da-1-449x449-449x449.jpg\" />"
       },
       "components": [
         {
@@ -1031,7 +1029,7 @@
         "meta_descr": "An anaysis of Patricia de Lille's new political party, Good.",
         "title": "Is Good Good Enough? - Politricks SA",
         "order": 10,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Is Good Good Enough? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An anaysis of Patricia de Lille's new political party, Good.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1Cq_bKdajbCWfWuzCgdDoUPEgH2f2tzsN/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Is Good Good Enough? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An anaysis of Patricia de Lille's new political party, Good.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/good-1-401x401-401x401.jpg\" />"
       },
       "components": [
         {
@@ -1280,7 +1278,7 @@
         "meta_descr": "An introduction to the concept of #BetterBlacks and the call to review black empowerment policy.\n",
         "title": "Better Blacks [Part 1] #BetterBlacks - Politricks SA",
         "order": 7,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Better Blacks [Part 1] #BetterBlacks - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An introduction to the concept of #BetterBlacks and the call to review black empowerment policy.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1lyVpUNu-Zgtf33alo6sw5eWvuQi5RU5E/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Better Blacks [Part 1] #BetterBlacks - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"An introduction to the concept of #BetterBlacks and the call to review black empowerment policy.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/bee-1-1000x1000-800x800.jpg\" />"
       },
       "components": [
         {
@@ -1572,7 +1570,7 @@
         "meta_descr": "Political article that questions the quality of leadership in South Africa. ",
         "title": "A New Dawn or New Dread? - Politricks SA",
         "order": 8,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"A New Dawn or New Dread? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Political article that questions the quality of leadership in South Africa.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1sDkUkipdOneRwn-7YRQ4y-TYYFf9U0DC/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"A New Dawn or New Dread? - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Political article that questions the quality of leadership in South Africa.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/anc-1-452x452-452x452.jpg\" />"
       },
       "components": [
         {
@@ -1824,7 +1822,7 @@
         "meta_descr": "A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day. \n",
         "title": "Give the Poor Money to Solve our Problems - Politricks SA",
         "order": 9,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Give the Poor Money to Solve our Problems - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1UbDH1Vh5UritJhWXZniKaC-bqWDZohNZ/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Give the Poor Money to Solve our Problems - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A discussion on the status quo, socio-economic imbalances and the hopelessness in political parties of the day.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/poor-sa-350x350-350x350.jpg\" />"
       },
       "components": [
         {
@@ -2076,8 +2074,7 @@
         "meta_descr": "Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. ",
         "title": "Politricks SA - Podcasts",
         "order": 3,
-        "meta_image": "@PROJECT_PATH@/assets/images/radio%20mic-1024x678.jpg",
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA - Podcasts\" />\n<meta name=\"twitter:description\" content=\"Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. \" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/1463RxaPQji76enJngnAvfWXffA2yl_6u/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA - Podcasts\" />\n<meta name=\"twitter:description\" content=\"Podcasts on socio-economic matters. For news, politics, economics and great conversations, listen to Politricks SA Podcasts. \" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/radio-mic-678x678-678x678.jpg\" />"
       },
       "components": [
         {
@@ -2283,7 +2280,7 @@
         "title": "Advertise with Politricks SA",
         "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/sddefault.jpeg",
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Advertise with Politricks SA\" />\n<meta name=\"twitter:description\" content=\"We can create a short video for you to use for advertising on social media.\nWe can also advertise your services or products on our social media. Contact us to learn more.\" />\n<meta name=\"twitter:image\" content=\"https://drive.google.com/file/d/10ho6HM8QTCP_Pv6XWtipOFcUQArIWJ_g/view?usp=sharing\" />"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Advertise with Politricks SA\" />\n<meta name=\"twitter:description\" content=\"We can create a short video for you to use for advertising on social media.\nWe can also advertise your services or products on our social media. Contact us to learn more.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/type-6-1000x1000-800x800.png\" />"
       },
       "components": [
         {
@@ -2660,7 +2657,7 @@
         "meta_descr": "Ideology, particularly in South Africa, seems to be the only reference upon which all political arguments are based. It’s as if certain political parties argue in a manner which is exclusively aligned to a particular ideology. They discard anything that contradicts their indoctrinated way of thinking, without questioning whether it makes economic sense or not.\n- Jimmy Ramokgopa",
         "title": "Tito Mboweni’s strategy needs South Africans to collaborate - Politricks SA",
         "order": 11,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Tito Mboweni’s strategy needs South Africans to collaborate - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Ideology, particularly in South Africa, seems to be the only reference upon which all political arguments are based. It’s as if certain political parties argue in a manner which is exclusively aligned to a particular ideology. They discard anything that contradicts their indoctrinated way of thinking, without questioning whether it makes economic sense or not.- Jimmy Ramokgopa\" />\n<meta name=\"twitter:image\" content= \"https://drive.google.com/file/d/1GV6_udBjO-T9uPkI2KB-F4DQpSwY6IUZ/view?usp=sharing\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Tito Mboweni’s strategy needs South Africans to collaborate - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Ideology, particularly in South Africa, seems to be the only reference upon which all political arguments are based. It’s as if certain political parties argue in a manner which is exclusively aligned to a particular ideology. They discard anything that contradicts their indoctrinated way of thinking, without questioning whether it makes economic sense or not.- Jimmy Ramokgopa\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/tito-1-452x452-452x452.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
       },
       "components": [
         {
@@ -2910,7 +2907,7 @@
         "meta_descr": "Economic freedom in our lifetime… how often have you heard that phrase? What is “economic freedom” and what does it actually mean? A glance through Google might come as a surprise to many, especially those who have associated economic freedom to socialism.",
         "title": "Economic freedom is a liberal concept - Politricks SA",
         "order": 12,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Economic freedom is a liberal concept - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A look into the real meaning of economic freedom.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/img-20181027-wa0008-1280x960.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Economic freedom is a liberal concept - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A look into the real meaning of economic freedom.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/sloganism-1-385x385-385x385.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
       },
       "components": [
         {
