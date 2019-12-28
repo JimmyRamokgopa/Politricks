@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "podcast.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 115,
+    "uniqCompNum": 125,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -3282,6 +3282,14 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/thum-1245x1245.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thum-1245x1245-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -3351,6 +3359,256 @@
             }
           },
           "_anchor": "social-buttons2-2x"
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "meta_descr": "Economic freedom in our lifetime… how often have you heard that phrase? What is “economic freedom” and what does it actually mean? A glance through Google might come as a surprise to many, especially those who have associated economic freedom to socialism.",
+        "title": "Empowerment is not a zero-sum game - Politricks SA\n",
+        "order": 13,
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Economic freedom is a liberal concept - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A look into the real meaning of economic freedom.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/sloganism-1-385x385-385x385.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#051170"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#040e5c"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#051170",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.politricks.co.za",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_customCSS": "",
+          "_anchor": "dropdown-menu-37"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/empower-1880x1253.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<div>EMPOWERMENT IS NOT A ZERO-SUM GAME\r</div>",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-38"
+        },
+        {
+          "text": "<p>26 December 2019 - Jimmy Ramokgopa</p><p><br></p><p>&nbsp;“Economic freedom in our lifetime”… how often have you heard this phrase? What is “economic freedom” and what does it actually mean? A glance through Google might come as a surprise to many, especially those who have associated economic freedom to socialism.\n</p><p>\n</p><p><br></p><p>Most of the available literature on “economic freedom” have little or nothing to do with socialism. In fact, it has everything to do with socialism's prime nemesis - liberalism. By definition, economic freedom is one’s ability to participate in the active economy. The freedom is founded on principles of free markets, free trade and private ownership. Basically, one has “economic freedom” when one is able to participate in the active economy without unreasonable restrictions or prohibition of property rights - which is in actual fact, a liberal concept.\n</p><p>\n</p><p><br></p><p>According to the Fraser Institute’s <i>Economic Freedom of the World 2019 Annual Report</i>, economic freedom “is based on the concept of self-ownership. Because of this self-ownership, individuals have a right to choose - to decide how to use their time\n and talents to shape their lives. On the other hand, they do not have a right to the time, talents, and resources of others. Thus, they have no right to take things from others or demand that others provide things for them. The cornerstones of economic freedom are personal choice, voluntary exchange, open markets, and clearly defined and enforced property rights.”</p><p>\n</p><p><br></p><p>So why have South Africans adopted a socialist narrative to economic freedom? Rhetoric and slogan politics, that’s why. One would be surprised by the number of people who don’t know what economic freedom means to them. Some will describe it as socialism, or refer to communist principles, ending with a laughable “therefore” statement of what they believe economic freedom is. Of course, everything has its context, and the concept of “economic freedom” has a particular meaning to some, even when it makes no sense at all to those who generally apply their minds.\n</p><p>\n</p><p><br></p><p>I suspect that the call for economic freedom was amplified by the old cliché that “<b>democracy brought political freedom, but not economic freedom.</b>” This statement is actually true, since the majority of people living in poverty do not have access to the active economy, and as a result of that, cannot exercise their “economic freedom” through free trade or private ownership of anything. The <i>Economic Freedom of the World Report</i> also shows that countries that have more “economic freedom” (by liberal standards) are more prosperous, such as New Zealand, Switzerland, the United States of America and Ireland, to name a few. Countries with little or no “economic freedom,'' such as Iraq, Egypt, Syria, Democratic Republic of Congo, Angola, Algeria, Sudan, Libya, and, lastly, Venezuela, show fewer signs of prosperity. So, of course, considering our socio-economic situation, it is clear that South Africa is in desperate need of economic freedom, but clearly not the “Malema-nomics” type of economic freedom.</p><p><br></p><p>\n</p><p>\n</p><p>With the above put into consideration, I think we can all agree that the only reason we find ourselves in this quagmire of poverty, unemployment and hopelessness is that, indeed, economic freedom has not been delivered to the people. But, economic freedom can become actual reality if and only if all citizens of this country have access to the active economy. When citizens are able to trade, leverage assets, and generate wealth for themselves and their families, we will have economic freedom. \n</p><p>\n</p><p><br></p><p>With that said, in South Africa’s context, we have to start by making the economy more accessible. This needs to be done by undoing the injustices of the past, without compromising the liberal principles that have proven to be successful in the development of prosperous countries. In other words, we need a non-zero-sum-game development of those who do not have access to the economy so that they too can exercise their economic freedom as much as others can. \n</p><p>\n</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#162d47"
+            }
+          },
+          "_anchor": "content1-39"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": false,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-3f"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20181027-wa0008-1280x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AUTHOR",
+          "text": "<p>Jimmy Ramokgopa\n</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\n</p><p>Businessman - socio-economic and political commentator \n</p><p>Activist - The Collab Movement&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://twitter.com/JimmyRamokgopa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TWITTER</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "blakseedent@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3c"
         }
       ]
     }
