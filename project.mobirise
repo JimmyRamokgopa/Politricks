@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "Advertise.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2179,7 +2179,7 @@
           "_afterNavbarItem": false,
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "4",
             "sound": "https://soundcloud.com/user-740130677/sets/socio-political-podcast-with",
             "autoplay": false,
             "fullWidth": true,
@@ -2196,30 +2196,28 @@
         },
         {
           "_params": {
-            "showText": true,
-            "outside": false,
-            "bgColor": "#252525"
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
           },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=51fyL9k2ig4",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "The official Politricks SA Podcast ad.",
+          "text": "SHARE THIS PAGE!",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-2a"
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-26"
         },
         {
           "_params": {
@@ -2246,31 +2244,6 @@
             }
           },
           "_anchor": "social-buttons2-29"
-        },
-        {
-          "_params": {
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "google": true,
-            "twitter": true
-          },
-          "text": "SHARE THIS PAGE!",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-26"
         }
       ]
     },
