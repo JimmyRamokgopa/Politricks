@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 125,
+    "uniqCompNum": 131,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -70,7 +70,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -137,7 +137,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/sloganism-header-685x385.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -145,6 +145,19 @@
                 "contentAlign": "right",
                 "text": "A look into the real meaning of economic freedom.",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/empower-1880x1253.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "EMPOWERMENT IS NOT A ZERO-SUM GAME",
+                "contentAlign": "right",
+                "text": "Indeed, it is true that if you eat the wealthy, it will be your last meal. But what choice does one have when there is nothing else to eat?",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
                 "overlay": true,
                 "overlayOpacity": "0.7"
               },
@@ -362,7 +375,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -611,7 +624,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -814,7 +827,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1063,7 +1076,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1312,7 +1325,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1604,7 +1617,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1856,7 +1869,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2108,7 +2121,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2287,7 +2300,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2664,7 +2677,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2914,7 +2927,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3166,7 +3179,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3290,6 +3303,14 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/block-equality-header-800x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/block-equality-header-800x800-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -3364,10 +3385,10 @@
     },
     "page15.html": {
       "settings": {
-        "meta_descr": "Economic freedom in our lifetime… how often have you heard that phrase? What is “economic freedom” and what does it actually mean? A glance through Google might come as a surprise to many, especially those who have associated economic freedom to socialism.",
-        "title": "Empowerment is not a zero-sum game - Politricks SA\n",
+        "meta_descr": "Primarily, there are two schools of thought. One believes that the only way to fix South Africa is through restoration and redistribution; the other believes that it is through economic growth only. The former then argues that there cannot be economic growth without redistribution. The latter then says that there cannot be any redistribution if there is nothing to distribute [i.e. if there is no economic growth]. Indeed, it is true that if you eat the wealthy, it will be your last meal. But what choice does one have when there is nothing else to eat?",
+        "title": "Empowerment is not a zero-sum game - Politricks SA",
         "order": 13,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Economic freedom is a liberal concept - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"A look into the real meaning of economic freedom.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/sloganism-1-385x385-385x385.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Empowerment is not a zero-sum game - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Indeed, it is true that if you eat the wealthy, it will be your last meal. But what choice does one have when there is nothing else to eat?\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/thum-1245x1245-800x800.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
       },
       "components": [
         {
@@ -3401,7 +3422,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3460,7 +3481,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
-          "title": "<div>EMPOWERMENT IS NOT A ZERO-SUM GAME\r</div>",
+          "title": "<div>EMPOWERMENT IS NOT A ZERO-SUM GAME\n</div>",
           "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -3471,7 +3492,7 @@
           "_anchor": "content5-38"
         },
         {
-          "text": "<p>26 December 2019 - Jimmy Ramokgopa</p><p><br></p><p>&nbsp;“Economic freedom in our lifetime”… how often have you heard this phrase? What is “economic freedom” and what does it actually mean? A glance through Google might come as a surprise to many, especially those who have associated economic freedom to socialism.\n</p><p>\n</p><p><br></p><p>Most of the available literature on “economic freedom” have little or nothing to do with socialism. In fact, it has everything to do with socialism's prime nemesis - liberalism. By definition, economic freedom is one’s ability to participate in the active economy. The freedom is founded on principles of free markets, free trade and private ownership. Basically, one has “economic freedom” when one is able to participate in the active economy without unreasonable restrictions or prohibition of property rights - which is in actual fact, a liberal concept.\n</p><p>\n</p><p><br></p><p>According to the Fraser Institute’s <i>Economic Freedom of the World 2019 Annual Report</i>, economic freedom “is based on the concept of self-ownership. Because of this self-ownership, individuals have a right to choose - to decide how to use their time\n and talents to shape their lives. On the other hand, they do not have a right to the time, talents, and resources of others. Thus, they have no right to take things from others or demand that others provide things for them. The cornerstones of economic freedom are personal choice, voluntary exchange, open markets, and clearly defined and enforced property rights.”</p><p>\n</p><p><br></p><p>So why have South Africans adopted a socialist narrative to economic freedom? Rhetoric and slogan politics, that’s why. One would be surprised by the number of people who don’t know what economic freedom means to them. Some will describe it as socialism, or refer to communist principles, ending with a laughable “therefore” statement of what they believe economic freedom is. Of course, everything has its context, and the concept of “economic freedom” has a particular meaning to some, even when it makes no sense at all to those who generally apply their minds.\n</p><p>\n</p><p><br></p><p>I suspect that the call for economic freedom was amplified by the old cliché that “<b>democracy brought political freedom, but not economic freedom.</b>” This statement is actually true, since the majority of people living in poverty do not have access to the active economy, and as a result of that, cannot exercise their “economic freedom” through free trade or private ownership of anything. The <i>Economic Freedom of the World Report</i> also shows that countries that have more “economic freedom” (by liberal standards) are more prosperous, such as New Zealand, Switzerland, the United States of America and Ireland, to name a few. Countries with little or no “economic freedom,'' such as Iraq, Egypt, Syria, Democratic Republic of Congo, Angola, Algeria, Sudan, Libya, and, lastly, Venezuela, show fewer signs of prosperity. So, of course, considering our socio-economic situation, it is clear that South Africa is in desperate need of economic freedom, but clearly not the “Malema-nomics” type of economic freedom.</p><p><br></p><p>\n</p><p>\n</p><p>With the above put into consideration, I think we can all agree that the only reason we find ourselves in this quagmire of poverty, unemployment and hopelessness is that, indeed, economic freedom has not been delivered to the people. But, economic freedom can become actual reality if and only if all citizens of this country have access to the active economy. When citizens are able to trade, leverage assets, and generate wealth for themselves and their families, we will have economic freedom. \n</p><p>\n</p><p><br></p><p>With that said, in South Africa’s context, we have to start by making the economy more accessible. This needs to be done by undoing the injustices of the past, without compromising the liberal principles that have proven to be successful in the development of prosperous countries. In other words, we need a non-zero-sum-game development of those who do not have access to the economy so that they too can exercise their economic freedom as much as others can. \n</p><p>\n</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
+          "text": "<p>29 December 2019 - Jimmy Ramokgopa</p><p><br></p><p>In the great words of Abraham Lincoln, “You cannot help the poor by destroying the rich. You cannot strengthen the weak by weakening the strong. You cannot bring about prosperity by discouraging thrift. You cannot lift the wage earner up by pulling the wage payer down. You cannot further the brotherhood of man by inciting class hatred. You cannot build character and courage by taking away people's initiative and independence. You cannot help people permanently by doing for them, what they could and should do for themselves.”\n</p><p>\n</p><p><br></p><p>The above mentioned words are very relatable to South Africa. The divide and inequality correlates to a particular racial profile - a racial profile that has been deliberately designed and perpetuated by previous regimes. Of course, I appreciate the logical principle that “correlation is not causation”, but in this case, history would argue that it is. Nonetheless, the focus of this discussion will not be on the blaming of one race for the difficulties of the other. Instead, it will be solution-oriented with the hope of facilitating a conversation upon which all South Africans would find common-ground.\n</p><p>\n</p><p><br></p><p>I think that we can all agree that not all of the issues facing South Africa today are products of Apartheid. Stats SA’s March 2018 report titled <i>Overcoming Poverty and Inequality in South Africa</i> mentions that, despite “extremely high and rising unemployment, skilled labour can be difficult to find in most skilled and professional segments, largely due to the poor state of the public education system.” It also mentions how education has a strong influence on the probability of labour market participation. In addition to that, “Small Micro and Medium Enterprises (SMMEs) have been struggling to advance inclusive growth and development as envisaged in the country’s NDP.” The economic participation of SMMEs has been falling over time as well as the number of employees working in this sector, which is one of the most concerning crises facing the country today, apart from Eskom.\n</p><p>\n</p><p><br></p><p>How do we fix the country? \n</p><p>\n</p><p><br></p><p>Primarily, there are two schools of thought. One believes that the only way to fix South Africa is through restoration and redistribution; the other believes that it is through economic growth only. The former then argues that there cannot be economic growth without redistribution. The latter then says that there cannot be any redistribution if there is nothing to distribute [i.e. if there is no economic growth].<b> Indeed, it is true that if you eat the wealthy, it will be your last meal. But what choice does one have when there is nothing else to eat?\n</b></p><p>\n</p><p><br></p><p>The truth is that both schools of thought are correct. Considering our past, there needs to be some form of restoration and redistribution. It is not by coincidence that certain groups find themselves in poverty - in their majority. They don’t just <i>happen </i>to be poor. There was a deliberate effort to position them that way, and so, there has to be a deliberate effort to emancipate them. At the same time, the emancipation of those who have been wronged cannot be at the expense of the economy. If that happens, then indeed, it shall be our last meal.\n</p><p>\n</p><p><br></p><p>However, if we agree that something has to be done about the inequality and, at the same time, agree that this should not happen at the expense of the economy, then perhaps “redistribution” is not the correct term to use. I would suggest that, to change our perspective, we talk about “development” instead of “redistribution”. “Redistribution” implies the loss from a particular group, whilst “development” describes the gain of a particular group without the loss from the other. “Development” describes what a non-zero-sum game is, and I believe that <i>that </i>is the approach that is needed in South Africa right now.\n</p><p>\n</p><p><br></p><p>A non-zero-sum approach would be the implementation of policy that develops “previously disadvantaged groups” without taking anything from existing businesses. For example, instead of taking shares from an existing business and giving them to a black individual, one would rather incentivise the business for doing business with other black businesses; or incentivise businesses for contributing to the training and development of black people. \n</p><p>\n</p><p><br></p><p>Many of these principles are present in the updated version of B-BBEE, where the focus is more on development rather than the transfer of ownership. Even though B-BBEE has a lot of room for improvement, I believe that a paradigm shift from “redistribution” to “development” is what will help fix South Africa. This is a more sustainable solution because “development” is permanent and transferable to other generations. You cannot “un-develop” a person. This is why white South Africans are generally able to sustain themselves even after the Apartheid regime - it is because development is transferable.\n</p><p>\n</p><p><br></p><p>This type of development would allow black people to learn and grow for themselves without relying on being given ownership of existing businesses. As Abraham Lincoln would say, you cannot help people permanently by doing for them what they could and should do for themselves. And as I would say, it is within everyone’s best interest to develop those who have not been developed yet, before they decide to have their last meal. \n</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -3609,6 +3630,256 @@
           ],
           "_name": "form2",
           "_anchor": "form2-3c"
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "meta_descr": "Primarily, there are two schools of thought. One believes that the only way to fix South Africa is through restoration and redistribution; the other believes that it is through economic growth only. The former then argues that there cannot be economic growth without redistribution. The latter then says that there cannot be any redistribution if there is nothing to distribute [i.e. if there is no economic growth]. Indeed, it is true that if you eat the wealthy, it will be your last meal. But what choice does one have when there is nothing else to eat?",
+        "title": "Equality is a myth, but fairness isn’t - Politricks SA\n",
+        "order": 14,
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Empowerment is not a zero-sum game - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Indeed, it is true that if you eat the wealthy, it will be your last meal. But what choice does one have when there is nothing else to eat?\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/thum-1245x1245-800x800.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#051170"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#040e5c"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#051170",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.politricks.co.za",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_customCSS": "",
+          "_anchor": "dropdown-menu-3h"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/equality-header-1600x800.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<div>EQUALITY IS A MYTH, BUT FAIRNESS ISN'T</div><div><br></div>",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-3i"
+        },
+        {
+          "text": "<p>12 January &nbsp;2020 - Jimmy Ramokgopa</p><p><br></p><p>“We strive for the best we can attain within the scope the world allows.” These are the words of John Rawls, in his book titled “Political Liberalism”. Indeed, from a practical point of view, we are limited to the scope that our world permits. Of course, it is good to dream and it is better to have an <i>internal locus of control</i>, but the reality is that, even when it is possible to be the best at what we do, all is determined by the circumstances around us.</p><p><br></p><p>\n</p><p>\n</p><p>Richard J. Arneson, in an article published in the Journal of Political Philosophy, titled “Equality of Opportunity for Welfare Defended and Recanted” (1999), mentions that the “more difficult and painful it is for an individual to make [the] best choice, the less reasonable it is to expect that she will make that choice. In other words, people have equal opportunity for welfare when the cards they are dealt are such that if they play their cards as well as one could expect, they gain the same expected welfare”. In simpler terms, it is reasonable to expect better results from people who have access to better resources than from those who do not.</p><p><br></p><p>\n</p><p>\n</p><p>“Fairness” can be a rather subjective matter and may seem mythical in many instances. “Fairness” means different things to different people under different circumstances. Google defines it as “impartial and just treatment or behaviour without favouritism or discrimination.” The definition makes sense, but is limited to human interaction. It says nothing about the intrinsic and extrinsic circumstances of the human being in relation to fairness.</p><p><br></p><p>\n</p><p>\n</p><p>Free market principles make reference to concepts of “fair competition,” where businesses operate on a “level” playing field. This is obviously mythical, since there are no identical businesses, with identical assets, opportunities and resources. Despite attempts from regulatory bodies to enforce “fair competition,” it is only natural for businesses to maximise their utility, which often results in competitors experiencing a loss.</p><p><br></p><p>\n</p><p>\n</p><p>In the political sense, many would say that “equality” is “fairness.” They would also argue that this article contradicts itself by saying that “equality” is a myth and yet claims that “fairness” isn’t. Of course, superficially, that argument would make perfect sense. But if you analyse the two concepts closely, you will realise that they are different and that one has had many occurrences, whilst the other has occurred only once since the beginning of time.</p><p><br></p><p>  \n</p><p>\n</p><p><b>When has “equality” ever occurred?</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p>Equality is defined as “the state of being equal, especially in status, rights, or opportunities.” Therefore, equality among human beings occurred at least 2.8 million years ago, soon after they had evolved and became the first members of the human species, called Homo habilis. During that period of time, the first human beings were on an equal footing, and thereafter, equality became virtually impossible. This was due to the fact that some could run faster than others, make better tools than others, and build better shelters than others.</p><p><br></p><p>\n</p><p>\n</p><p><b>When has “fairness” ever occurred?</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p>Fairness occurs many times. In the olympics, all athletes start on the same line. In a soccer match, all teams start with the same number of players. That is fair. But as mentioned earlier, “fairness” is not “equality.” Starting on the same line during a race, or having the same number of players on a soccer field, doesn’t mean that equality exists. Some athletes are simply stronger than others; some are more talented. Thus, “equality” becomes a myth.</p><p><br></p><p>\n</p><p>\n</p><p>So, even if we were to reset the economy, and provide every human being with the same amount of resources, inequality would be an inevitable feature of the future. However, with that said, the issue facing South Africa is that the previous regime created an unfair socio-economic system. In the new dispensation, we did not start on the same line, or start with the same number of players. That is unfair.</p><p><br></p><p> \n</p><p>\n</p><p>So, how do we fix this? How do we make an ongoing and inevitably unequal system fair? Well, there are three possible options:\n</p><p>1) You reset the system, placing everyone on the same starting position. However, because of the finite resources, I suspect that this will lead to extreme poverty.\n</p><p>2) You restrict the progress of those who are ahead - through policy and taxation. I believe this is what many African countries have been trying to do, which has actually limited economic growth altogether by making it difficult for the generation of new opportunities. \n</p><p>3) You accelerate those who have been left behind through developmental policy, until they find themselves in a position that would allow them to compete fairly.</p><p><br></p><p>\n</p><p>\n</p><p>I’m an advocate of the third option. To me, it makes better sense to develop than to take from others. Afterall, you cannot develop the poor by bringing the wealthy down.</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#162d47"
+            }
+          },
+          "_anchor": "content1-3j"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": false,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-3k"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-20181027-wa0008-1280x960.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AUTHOR",
+          "text": "<p>Jimmy Ramokgopa\n</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\n</p><p>Businessman - socio-economic and political commentator \n</p><p>Activist - The Collab Movement&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://twitter.com/JimmyRamokgopa\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TWITTER</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3l"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "blakseedent@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3m"
         }
       ]
     }
