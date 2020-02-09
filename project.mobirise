@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page17.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -136,8 +136,21 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/equality-header-1600x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/header-john-1000x666.jpg",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "JOHN STEENHUISEN ISN’T WHAT SOUTH AFRICA NEEDS",
+                "contentAlign": "right",
+                "text": "A look into the policies of John Steenhuisen<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page17.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/equality-header-1600x800.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
