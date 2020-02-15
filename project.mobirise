@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "index.html",
+    "currentPage": "podcast.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2204,7 +2204,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/radio-mic-678x678.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/podcast-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
