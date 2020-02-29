@@ -786,6 +786,18 @@
   font-size: 60px;
   color: #777;
 }
+#custom-html-4y {
+  /* Type valid CSS here */
+}
+#custom-html-4y div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-4y p {
+  font-size: 60px;
+  color: #777;
+}
 #content1-4k DIV {
   color: #162d47;
 }

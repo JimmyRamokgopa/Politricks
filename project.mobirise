@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page13.html",
+    "currentPage": "page20.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 178,
+    "uniqCompNum": 179,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -136,8 +136,21 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/unnamed-709x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/unnamed-465x269.png",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "THE K-WORD AND ITS POWER OVER SOUTH AFRICANS\r",
+                "contentAlign": "right",
+                "text": "Should racism be criminalised?<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page20.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/unnamed-709x472.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -4985,6 +4998,20 @@
           "_anchor": "custom-html-4j"
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://open.spotify.com/embed-podcast/episode/10LzfSAlVCJCK9F4Gt1AQz\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-4y",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
           "text": "<p>22 February &nbsp;2020 - Jimmy Ramokgopa</p><p><br></p><p>Year in and year out, students take to the hallways to protest over fees, historic debt, accommodation and other living expenses. But, for how long will students do the same thing repeatedly, whilst destroying infrastructure, before realising that perhaps there is another way? \n</p><p>On today’s podcast, we shall discuss shutdown-ism and the negative consequences that come with it.<br></p><p><br></p><p>\n</p><p>\n</p><p>A society of demands. A society that destroys things when its demands aren't met. A society that does not understand that we can’t always have things our way. It should be easy for any sane human being to comprehend this, but not for our university politicians.</p><p><br></p><p>\n</p><p>\n</p><p>But before I'm accused of speaking from a point of privilege, let me be clear that I do understand the struggles of students. I might have not felt the full plight of financial exclusion, but I do know what it’s like to have your impressive Grade 12 results in hand, an acceptance letter from a university, but no idea of where the funds for your education would come from. I was there. I know the feeling of frustration. Especially when you have done your best to apply for the necessary funding in good time. In fact, I had lost count of the number of promising bursaries and scholarships that I had applied for, only to be left disappointed and stranded.</p><p><br></p><p> \n</p><p>\n</p><p>Oh well, life happens. Things don’t always go our way. I remember my mother scratching for her last R6000.00, which was used to register me at the University of the Witwatersrand. That’s pretty much all she could do, and from henceforth, it was “Jesus, take the wheel!”</p><p><br></p><p> \n</p><p>\n</p><p>But after six months of living with my sister’s inlaw, in the rough streets of Yeoville, hustling for books, drawing boards and other essential tools for learning, and relentlessly visiting the financial-aid office, I was made aware of an open bursary opportunity, which I got by God’s grace and through my above-average marks, of course.</p><p><br></p><p> \n</p><p>\n</p><p>So, yes, I know that it’s not easy. But often, I wonder if NSFAS students realise how fortunate they actually are. Even as a bursary student of a large private company, I would envy the benefits of being a NSFAS student. They had 3 proper meals a day, whilst some of us stood in long queues for a small tub of R5.00 vegetable biryani at Kara Nicha’s. Some of them had accommodation that was fully paid for, book allowance, basically, anything that a student would need to study comfortably. They were somewhat like the rich kids, without the branded clothing.</p><p><br></p><p>\n</p><p>\n</p><p>The issue of student debt is a reality for most students across the world. It is not unusual that tertiary education remains a privilege of a limited number of people. This has happened before in many of the developed nations, and as they manage to grow their respective economies and make better use of technology, some education became free or at least more affordable.</p><p><br></p><p> \n</p><p>\n</p><p>The south African student does not seem to understand that our economy isn’t there yet. And even though the government spends billions annually on education, the economy is still not strong enough to absorb the graduates that are produced by the same system. This is a reality that the youth will have to face.</p><p><br></p><p> \n</p><p>\n</p><p>The fact that students do not understand this reality is the reason for the destructive behaviour seen during their protest action. The culture of shutdown-ism and vandalism has become an additional burden to the ailing economy that’s already struggling to cater for graduates.</p><p><br></p><p>\n</p><p>\n</p><p>What we do need right now is a government that will put the facts before politics. A government that will be honest and clear about its limitations, so that students are aware of what’s possible at this point in time. But also, a government that does not allow the politicization of problematic behaviour.</p><p><br></p><p> \n</p><p>\n</p><p>The burning and destruction of public infrastructure should not be accepted as the standard form of political behaviour. The culture of shutdown-ism, violence and vandalism needs to come to an end, before it leads to the end of what’s left of the rule of law.\n</p><p><br></p><p>\n</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
           "_tags": [
             "Theme"
@@ -5155,10 +5182,10 @@
     },
     "page20.html": {
       "settings": {
-        "meta_descr": "Year in and year out, students take to the hallways to protest over fees, historic debt, accommodation and other living expenses. But, for how long will students do the same thing repeatedly, whilst destroying infrastructure, before realising that perhaps there is another way? \n\nOn today’s podcast, we shall discuss shutdown-ism and the negative consequences that come with it.\n",
-        "title": "The k-word and its power over South Africans - Politricks SA\n",
+        "meta_descr": "Adam Catzavelos’s judgement was handed over, where he was given a fine of R50000 or 2 years behind bars, both of which were suspended for 5 years provided that he doesn’t find himself charged with crimen injuria during this time. He was charged for using the k-word in a viral video. For those of you from outside of South Africa, the k-word is like the American n-word. The full word is “kaffir.” \n\nIt has been quite a long case, which has sparked conversations about how we deal with racism in South Africa. Should racism be criminalised? Should there be standard sentences for racial altercations? And if so, why? All of this will be discussed in today’s Politricks SA podcast.",
+        "title": "The k-word and its power over South Africans - Politricks SA",
         "order": 18,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Shutdown-ism and the University Student’s Disruptive Behaviour - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Year in and year out, students take to the hallways to protest over fees, historic debt, accommodation and other living expenses. But, for how long will students do the same thing repeatedly, whilst destroying infrastructure, before realising that perhaps there is another way? \n\nOn today’s podcast, we shall discuss shutdown-ism and the negative consequences that come with it.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/shutdownism-472x472-472x472.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"The k-word and its power over South Africans - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"Adam Catzavelos’s judgement was handed over, where he was given a fine of R50000 or 2 years behind bars, both of which were suspended for 5 years provided that he doesn’t find himself charged with crimen injuria during this time. He was charged for using the k-word in a viral video. For those of you from outside of South Africa, the k-word is like the American n-word. The full word is “kaffir.” \n\nIt has been quite a long case, which has sparked conversations about how we deal with racism in South Africa. Should racism be criminalised? Should there be standard sentences for racial altercations? And if so, why? All of this will be discussed in today’s Politricks SA podcast.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/thumb-adam-269x269-269x269.png\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
       },
       "components": [
         {
@@ -5266,7 +5293,7 @@
             "showMeta": true
           },
           "title": "LISTEN TO THE PODCAST BELOW",
-          "meta": "Hosted by Jimmy Ramokgopa, Frbruary 22, 2020",
+          "meta": "Hosted by Jimmy Ramokgopa, March 01, 2020",
           "_tags": [
             "Theme"
           ],
@@ -5276,7 +5303,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://open.spotify.com/embed-podcast/episode/10LzfSAlVCJCK9F4Gt1AQz\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://open.spotify.com/embed-podcast/episode/6HZCPKDFeN1Ea7PPDgKwj4\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
