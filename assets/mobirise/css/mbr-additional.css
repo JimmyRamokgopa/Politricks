@@ -798,3 +798,59 @@
 #msg-box4-4n .mbr-article {
   color: #ffffff;
 }
+#dropdown-menu-4p .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-4p .nav .link,
+#dropdown-menu-4p .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-4p .navbar,
+#dropdown-menu-4p .dropdown-menu {
+  background: #051170;
+}
+#dropdown-menu-4p .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-4p .dropdown-menu a:hover,
+#dropdown-menu-4p .dropdown-menu a:focus {
+  background: #040e5c;
+}
+#dropdown-menu-4p .navbar-toggler {
+  color: #ffffff;
+}
+#content5-4q .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-size: 30px;
+}
+#content5-4q .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4q .mbr-article {
+  color: #fff;
+}
+#custom-html-4s {
+  /* Type valid CSS here */
+}
+#custom-html-4s div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-4s p {
+  font-size: 60px;
+  color: #777;
+}
+#content1-4t DIV {
+  color: #162d47;
+}
+#msg-box4-4w .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-4w .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-4w .mbr-article {
+  color: #ffffff;
+}
