@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page19.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 179,
+    "uniqCompNum": 188,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -3657,6 +3657,14 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cyril-666x666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cyril-666x666-666x666.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -5480,6 +5488,283 @@
           ],
           "_name": "form2",
           "_anchor": "form2-4x"
+        }
+      ]
+    },
+    "page21.html": {
+      "settings": {
+        "meta_descr": "What does a “successful” lockdown look like to you? How would you ascertain that? Do you have a particular criteria? Scoresheet? Do you base it on a low number of infections, or on a high number of recoveries? In other words, are you in a better position with low infections, or would you be in a better position knowing that the virus has gone through many people who have recovered and thus developed somewhat an immunity? Well, if we are to continue with the lockdown, we ought to be clear about the outcomes that we are trying to achieve. We need to understand what post-COVID-19 would look like, and this understanding can’t be based on feeling or assumption. It has to be based on scientific reasoning.",
+        "title": "Dear President Cyril Ramaphosa, how will we judge the success of your lockdown? - Politricks SA ",
+        "order": 19,
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Dear President Cyril Ramaphosa, how will we judge the success of your lockdown? - Politricks SA \" />\n<meta name=\"twitter:description\" content=\"Science is much more than a mere collection of “facts.” Science is not limited to physics, mathematics nor chemistry. As articulated by Fernando Sanford, a late American physicist, “the causal relations between the observed facts and phenomena is the essential aim of all scientific investigation.” And so, if we are to judge the “success” of the lockdown, scientifically, we need to be honest about the causal relations [lockdown regulations] and the phenomena [outcomes].\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/thumb-adam-269x269-269x269.png\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#051170"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#040e5c"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#051170",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"podcast.html\" aria-expanded=\"false\">PODCAST</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ARTICLES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">The k-word and its power<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Shutdown-ism in Universities<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Apartheid and the Science of Redress<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">John Steenhuisen isn’t what South Africa needs<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Equality is a myth, but fairness isn’t&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\">Economic freedom is a liberal concept</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Empowerment is not a zero-sum game</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Dreams for Sale</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Is the DA Racist?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\" aria-expanded=\"false\">Is Good Good Enough?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\" aria-expanded=\"false\">Better Blacks [Part 1]</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">A New Dawn or New Dread?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"false\">Give the Poor Money</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\" aria-expanded=\"false\">Tito Mboweni's Strategy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://give.politricks.co.za\" aria-expanded=\"false\">DONATE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Advertise.html\" aria-expanded=\"false\">ADVERTISE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"index.html\">HOME</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/white-logo-110x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.politricks.co.za",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"http://www.politricks.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Politricks SA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_customCSS": "",
+          "_anchor": "dropdown-menu-4z"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "30px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cyril-header-1000x666.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<div>DEAR PRESIDENT CYRIL RAMAPHOSA, HOW WILL WE JUDGE THE SUCCESS OF YOUR LOCKDOWN?</div>",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-50"
+        },
+        {
+          "text": "<p>7 May &nbsp;2020 - Jimmy Ramokgopa</p><p><br></p><p>Science is much more than a mere collection of “facts.” Science is not limited to physics, mathematics nor chemistry. As articulated by Fernando Sanford, a late American physicist, “the causal relations between the observed facts and phenomena is the essential aim of all scientific investigation.” And so, if we are to judge the “success” of the lockdown, scientifically, we need to be honest about the causal relations [lockdown regulations] and the phenomena [outcomes].</p><p><br></p><p>\n</p><p>\n</p><p>What does a “successful” lockdown look like to you? How would you ascertain that? Do you have a particular criteria? Scoresheet? Do you base it on a low number of infections, or on a high number of recoveries? In other words, are you in a better position with low infections, or would you be in a better position knowing that the virus has gone through many people who have recovered and thus developed somewhat an immunity? Well, if we are to continue with the lockdown, we ought to be clear about the outcomes that we are trying to achieve. We need to understand what post-COVID-19 would look like, and this understanding can’t be based on feeling or assumption. It has to be based on scientific reasoning.</p><p><br></p><p>\n</p><p>\n</p><p>What we do know is that your reasoning behind South Africa’s lockdown regulations is based on “saving lives.” What we are uncertain about is whether all of your regulations are effective in doing so or not, i.e. shutting down the tobacco and liquor industry, disallowing fast-food drive-throughs, and restricting e-commerce. Furthermore, even if the regulations were somewhat successful in saving lives in the short-term, what does this mean for all lives in the long-term? Does the argument of “saving lives” justify the destruction of livelihoods in the long-term?</p><p><br></p><p> \n</p><p>\n</p><p>In a country where 456 612 deaths were recorded in 2016 (over 1000 deaths per day), is there a particular reason for COVID-19 to require a complete shut-down of the economy during its early stages? Out of the total recorded deaths in 2016, 29 513 were due to Tuberculosis, 19 638 due to Influenza and pneumonia and 12 659 were due to chronic lower respiratory diseases (Stats SA, Mortality and causes of death in South Africa, 2016). In the first five weeks of the lockdown, the number of deaths due to COVID-19 in South Africa were about 100, with just over 6000 positive cases. So, another question is, considering the number of deaths and cases thus far, is the hard lockdown justifiable?</p><p><br></p><p>\n</p><p>\n</p><p>There is enough evidence suggesting the necessity of social distancing, and this has proven to be effective in reducing the infection rates, but what value do low infection rates have when the South African economy is on its knees, with looming retrenchments and increasing levels of poverty? It is becoming clear to us all that it is physically impossible to feed millions of people under a locked economy. The evidence is clearly visible in the many viral videos of people standing in long meandering queues, waiting impatiently and desperately for their share of donated food parcels.</p><p><br></p><p>\n</p><p>\n</p><p>In your May-Day Statement, you reminded us of the grim reality of job losses that are yet to come. We are mindful that these are in addition to job losses that were already anticipated before the COVID-19 lockdown, due to economic retraction and rating agency downgrades. We are also aware that it is not only the poor who are at risk. Soon, more of the working and middle class will feel the impact of the lockdown, and it will only be a matter of time before the majority of South Africans break the laws of the lockdown regulations in desperate attempts of survival.</p><p><br></p><p> \n</p><p>\n</p><p>If we look at the global economy, the economic downfall of South Africa is more than just a scientific hypothesis. As you would know, more prosperous economies like the United States of America, Italy, Spain and Germany have experienced their share of job losses due to their own lockdowns, which were not as strict as ours, by the way. And yes, countries like Germany have experienced high infection rates, but once the COVID-19 pandemic has subsided, which country will be judged better by its people? Will it be the country that had the least infection rates but a collapsed economy? Or will it be the country with more infections but a stable economy, capable of reviving the jobs and livelihoods of its people? As Jim George once said, “It's not how you start that's important, but how you finish!”</p><p><br></p><p>\n</p><p>\n</p><p>History will judge these actions once the pandemic has come to an end. It would not be a good story to tell, should your government continue in this meaningless path of lowering infection rates, without the appreciation of the scale of the imminent economic disaster. With that said, Mr President, I encourage you to reconsider the level of strictness in all of the regulations.</p><p><br></p><p> \n</p><p>\n</p><p>You had a good start, sir, but now that the data and reality has presented itself, it is clear that the more flexible your regulations are for us all, the better. We will overcome this, together. And as you have once said, this too shall pass, and we will be prosperous again, but only if we stand and work together towards a common goal.\n</p><p>\n</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#162d47"
+            }
+          },
+          "_anchor": "content1-53"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-54"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": false,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-55"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#051170",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/jimmy-1-878x878.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AUTHOR",
+          "text": "<p>Jimmy Ramokgopa\n</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\n</p><p>Businessman - socio-economic and political commentator \n</p><p>Activist - The Collab Movement&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://ramokgopa.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROFILE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-56"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR NEWSLETTER",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "blakseedent@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-57"
         }
       ]
     }
