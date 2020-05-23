@@ -35,7 +35,7 @@
         "title": "Politricks SA - the real voices of young people in South Africa.",
         "meta_descr": "The platform that enables young people to publish their opinions through written articles and podcasts.\nPolitics.\nNews.\nCartoons.\nPodcasts.\nSouth Africa.",
         "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Politricks SA\" />\n<meta name=\"twitter:description\" content=\"The real voices of young people in South Africa.\" />\n<meta name=\"twitter:image\" content=\"https://www.politricks.co.za/assets/images/type-6-1000x1000-800x800.png\" />",
-        "footer_custom": "",
+        "footer_custom": "<script data-ad-client=\"ca-pub-6084424134950354\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
         "html_before": ""
       },
       "components": [
