@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "Services.html",
+    "currentPage": "page17.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 195,
+    "uniqCompNum": 196,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -4332,6 +4332,20 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-3o"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <iframe src=\"https://podcastle.ai/embed?p=5f686620f319872124064e5f&amp;s=male\" width=\"740\" frameborder=\"0\" scrolling=\"no\">  </iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5f",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "text": "<p>10 February &nbsp;2020 - Jimmy Ramokgopa</p><p><br></p><p>“Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong remedies.” These were the words of Julius Henry \"Groucho\" Marx, an American comedian of the 1900’s, who seems to have had the best description of what we are witnessing in today’s political landscape.\n</p><p><br></p><p>It’s rather canny that I decided to introduce this article with a quote from a comedian, and one would argue that it’s quite appropriate too, considering the comedy of political options we have in this diverse and wonderful country of ours [South Africa].\n</p><p><br></p><p>The interim leader of the Democratic Alliance, John Steenhuisen, has made his position clear on issues of race-based policies, citing that the use of race as a proxy for disadvantage has done nothing but create a minority of black elites. His statement is riddled with inaccuracies, but true in some instances. Unsurprisingly, as described by Groucho Marx in the intro of this article, he looked for trouble, found it, but diagnosed it incorrectly. It would then follow that he is likely to apply the wrong remedies, should he find himself in the unlikely event of being the President of this country.</p><p><br></p><p>\n</p><p>\n</p><p>The problem with John Steenhuisen’s remarks is that, even though he is correct in saying that BEE has failed to include many black South Africans in the active economy, he is ignoring is the fact that (i) BEE did not work because of white-collar corruption, and (ii) the fact that BEE did not work does <b><i>not </i></b>negate the need for race-based policy.</p><p><br></p><p> \n</p><p>\n</p><p>John also argues that redress is still of a need to South Africa, based on our unfortunate past, but prefers that “poverty” be the only point of consideration. The greatest issue with this is that John believes that the economic emancipation of black people is a mere concept of job creation. He ignores the fact that many white South Africans enjoy the proceeds of Apartheid’s economic development, which went beyond the creation of jobs for white people. In John’s mind, the legacy of Apartheid has no bearing on the economic access that is based on race. To him, we should rather continue as if people weren’t excluded from being industry leaders based on the colour of their skin.</p><p><br></p><p>\n</p><p>\n</p><p>It should be obvious to the Democratic Alliance that when a particular group is deliberately excluded from developmental opportunities, to correct that, one needs to take deliberate steps. One cannot simply wash it off as if nothing happened. “Correcting” the injustices of the past by merely doing what any decent government ought to do anyway (that is, to grow the economy and create more jobs) has to be the most laughable act of John’s political comedy. Of course, as a government, you have to create jobs for the poor. But what about the economic imbalance that is undoubtedly based on race? What about redress?</p><p><br></p><p>\n</p><p>\n</p><p>In Singapore, women were once excluded from the economy. They were not allowed to own property and were pushed to more “nurturing professions,” whilst men occupied the more technical and business professions. It was only until 2007 that marital rape became legally recognized. It was then criminalised under the Criminal Law Reform Act passed on 6 May 2019. Merital rape is the act of sexual intercouse with a person’s spouce, without the concent of the spouce - a symbol of the sexism and patriarchy that created the economic imbalance between women and men in Singapore. Even after the adoption of the Women’s Charter of 1961, which advocated for women’s rights, Singapore “has high or extremely high gender inequality” according to the British Chamber of Commerce (Singapore, 2018). This is because Singapore does not have actual laws that advocate for gender equality.</p><p><br></p><p> \n</p><p>\n</p><p>Unlike Singapore, Sweden has taken deliberate steps to correct the injustices of the past. On the Swedish official website, it is clearly stated that “Gender discrimination in the workplace has been illegal since 1980.” The Swedish Discrimination Act of 2009 demands that employers actively promote equality between men and women. Even with the progress that has been made thus far, Sweden is currently considering the implementation quotas in their policies to fast-track the correction of past injustices. Sweden’s Gender Equality index sits at 83.6, whilst Singapore’s is at 68 - it shouldn’t be surprising that Sweden has a better gender equality position compared to Singapore.</p><p><br></p><p>\n</p><p>\n</p><p>Historically, imbalances and inequalities have been caused by sexism and/or racism. John Steenhuisen needs to recognise that, without actual and deliberate steps of correcting past injustices, not much of the status quo will change. And even if we manage to grow the economy and create more jobs, like Singapore, we will continue to have inequality that reflects the injustices of the past. \n</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
