@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Politricks",
-    "currentPage": "page13.html",
+    "currentPage": "page22.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 203,
+    "uniqCompNum": 205,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -436,8 +436,21 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/cyril-header-1000x666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mashaba-large-1024x691.png",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "MASHABA MAY BE THE NEXT PRESIDENT OF SOUTH AFRICA\n",
+                "contentAlign": "right",
+                "text": "This is how Herman Mashaba would become the President of South Africa. &nbsp;<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page22.html\" data-toolbar=\"-mbrBtnMove\">READ ARTICLE</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cyril-header-1000x666.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -6215,7 +6228,7 @@
         "meta_descr": "If the 2016 municipal elections were anything worth considering, it is clear that coalition arrangements (on a national level) could go well, or horribly wrong. But, before starting the discussion about the possibility of a coalition government, we need to be well aware of what it is and what the constitutional implications of such an arrangement mean to us. In simple terms, a coalition is a partnership of two or more political parties. There are two types:  a “majority coalition” and a “minority coalition”. A majority coalition simply means that the political parties that have formed the partnership have a collective majority representation in Parliament. The minority coalition simply means that they do not.",
         "title": "Mashaba may be the next President of South Africa - Politricks SA",
         "order": 20,
-        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Mashaba may be the next President of South Africa - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"If the 2016 municipal elections were anything worth considering, it is clear that coalition arrangements (on a national level) could go well, or horribly wrong. But, before starting the discussion about the possibility of a coalition government, we need to be well aware of what it is and what the constitutional implications of such an arrangement mean to us. In simple terms, a coalition is a partnership of two or more political parties. There are two types:  a “majority coalition” and a “minority coalition”. A majority coalition simply means that the political parties that have formed the partnership have a collective majority representation in Parliament. The minority coalition simply means that they do not.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/cyril-666x666-666x666.jpg\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
+        "header_custom": "<meta name=\"twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@PolitricksSA\" />\n<meta name=\"twitter:title\" content=\"Mashaba may be the next President of South Africa - Politricks SA\" />\n<meta name=\"twitter:description\" content=\"If the 2016 municipal elections were anything worth considering, it is clear that coalition arrangements (on a national level) could go well, or horribly wrong. But, before starting the discussion about the possibility of a coalition government, we need to be well aware of what it is and what the constitutional implications of such an arrangement mean to us. In simple terms, a coalition is a partnership of two or more political parties. There are two types:  a “majority coalition” and a “minority coalition”. A majority coalition simply means that the political parties that have formed the partnership have a collective majority representation in Parliament. The minority coalition simply means that they do not.\" />\n<meta name=\"twitter:image\" content= \"https://www.politricks.co.za/assets/images/sq-mashaba-large-691x691-691x691.png\" />\n\n<meta name=\"author\" content=\"Jimmy Ramokgopa\"/>"
       },
       "components": [
         {
@@ -6317,6 +6330,21 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-5h"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div class=\"videoWrapper\">\n    <iframe src=\"https://podcastle.ai/embed?p=5f763f69454c09ca73e07ac7&amp;s=male\" width=\"400\" frameborder=\"0\" scrolling=\"no\">  </iframe>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_params": {},
+          "_anchor": "custom-html-5o",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "text": "<p>02 October &nbsp;2020 - Jimmy Ramokgopa</p><p><br></p><p>Considering the many years of the National Party and the African National Congress regimes, it may seem as though a single-party state is all we have ever known as South Africans. But, interestingly, it turns out that a coalition government, on a national level, has happened before - between the National Party and the South African Party in the 1930’s.\n</p><p>\n</p><p><br></p><p>If the 2016 municipal elections were anything worth considering, it is clear that coalition arrangements (on a national level) could go well, or horribly wrong. But, before starting the discussion about the possibility of a coalition government, we need to be well aware of what it is and what the constitutional implications of such an arrangement mean to us. In simple terms, a coalition is a partnership of two or more political parties. There are two types:  a “majority coalition” and a “minority coalition”. A majority coalition simply means that the political parties that have formed the partnership have a collective majority representation in Parliament. The minority coalition simply means that they do not.\n</p><p>\n</p><p><br></p><p>Naturally, coalition governments are not desirable to political parties. This is because coalition arrangements often mean that politicians have to compromise on ideology or principle from time to time. This is not ideal, especially when it affects the maintenance of the brand and/or value system. Furthermore, it often means “getting into bed” with rivals, which may, of course, lead to uncomfortable positions [pun intended].\n</p><p>\n</p><p><br></p><p><i>With the decline of the ANC’s support, observed from previous election results, we can safely predict the return of a coalition arrangement on a national level. The next question would be whether South Africa falls under a “presidential” or “parliamentary” system.\n</i></p><p>\n</p><p><br></p><p>With reference to the Constitution of South Africa, Pieter Labuschagne argues that South Africa is based on a parliamentary system, with a few deviations and modifications. The most important part of this modification is seen in Section 42(3) of the constitution, where the National Assembly is granted powers to choose the president, unlike in a traditional parliamentary system, where the strongest political party assumes the Presidency. This is very important. Section 86(1) further stipulates that if there is no outright majority, the National Assembly would have to elect a President during their first meeting. \n</p><p>\n</p><p><br></p><p><i>The next step is to determine whether a parliamentary system is better suited for a coalition arrangement or not.<br></i></p><p><br></p><p> \n</p><p>\n</p><p><b>“Cheibub, Przeworski and Saiegh (2004) emphasise the fact that coalitions are customarily associated with the parliamentary form of government. The reason is most probably because the parliamentary system’s fused legislature and executive seems to be more conducive to the formation, accommodation and durability of coalitions.” (Labuschagne 2018: 98)\n</b></p><p>\n</p><p><br></p><p>The above extract comes from the article published in the Journal for Contemporary History (2018 43(2): 96-116), written by the previously mentioned Labuschagne. The above mentioned article also highlights the risk of instability posed by coalition governments, but mentions that instability is more prevalent in presidential rather than parliamentary systems. From our experience, we have seen the instabilities of coalition governments in the City of Johannesburg, City of Tshwane and Nelson Mandela Bay municipalities. No mayor has completed a full term, and this risk is quite possible for a President sitting in a coalition arrangement. \n</p><p>\n</p><p><i><br></i></p><p><i>Now that we have explored the possibility of a coalition government, determined how it would work, and confirmed the application in terms of the constitution of South Africa, we can make a reasonable prediction about the next President of South Africa. \n</i></p><p>\n</p><p><br></p><p>From the title of this article, it is obvious to you what my prediction is. However, from the above synopsis of what a coalition government means, it is clear that I do not expect Herman Mashaba to win the general elections with an outright majority. I do, however, expect him to manage a decent 8 to 12 percent from the national polls, and yes, I do anticipate his political party’s survival - at least until after the next general election.\n</p><p>\n</p><p><br></p><p>Why Herman Mashaba? Well, should the ANC lose their majority at the national polls, and should the opposition parties decide to form a partnership, they would first have to consider choosing between John Steenhuisen and Julius Malema as the President of South Africa. For Steenhuisen or Malema to be the next President, both the Democratic Alliance and the Economic Freedom Fighters would have to be in agreement about who would lead the country between the two. Personally, I do not see the DA voting for Julius Malema as President; and I certainly do not see the EFF voting for John Steenhuisen. Indeed, this would be a “DA-lema”.\n</p><p>\n</p><p><br></p><p>The rubicon in favour of Herman Mashaba would result from the above dilemma. Since Steenhuisen and Malema would not be viable options for the Presidency, the coalition arrangement would look for a more “neutral” candidate. Of course, the DA might still hold a grudge against Herman Mashaba, but the social pressure from society in general would compel them to choose Herman Mashaba (a preferred alternative by the EFF and other alliance partners, as seen in his running of the City of Johannesburg) over another term under the ANC regime. \n</p><p>\n</p><p><br></p><p>And that is how Herman Mashaba would become the President of South Africa. \n</p><p><br></p><p>\n</p><p>\n</p><p>- &nbsp;&nbsp;&nbsp;&nbsp;Jimmy Ramokgopa (@JimmyRamokgopa)</p><p></p>",
@@ -6430,7 +6458,7 @@
             }
           },
           "title": "AUTHOR",
-          "text": "<p>Jimmy Ramokgopa\n</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\n</p><p>Businessman - socio-economic and political commentator \n</p><p>Activist - The Collab Movement&nbsp;</p>",
+          "text": "<p>Jimmy Ramokgopa\n</p><p>BSc. Engineering (Civil) - University of the Witwatersrand\n</p><p>Businessman - socio-economic and political commentator \n</p><p>Activist&nbsp;</p>",
           "_tags": [
             "Theme"
           ],

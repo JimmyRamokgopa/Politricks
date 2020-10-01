@@ -1267,6 +1267,18 @@
 #content5-5h .mbr-article {
   color: #fff;
 }
+#custom-html-5o {
+  /* Type valid CSS here */
+}
+#custom-html-5o div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-5o p {
+  font-size: 60px;
+  color: #777;
+}
 #content1-5i DIV {
   color: #162d47;
 }
